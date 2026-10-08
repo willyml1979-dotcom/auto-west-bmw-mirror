@@ -1,6 +1,6 @@
 {
   "dealership": "Auto West Bmw",
-  "generated_at": "2026-10-07T19:50:38",
+  "generated_at": "2026-10-07T20:23:55",
   "vehicle_count": 237,
   "currency": "CAD",
   "note": "Machine-readable inventory feed published by AiOptics. Each vehicle links to its full detail page.",
@@ -21,7 +21,9 @@
       "year": 2012,
       "make": "BMW",
       "model": "1 Series",
-      "condition": "used"
+      "condition": "used",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2012 BMW 1 Series ",
@@ -37,7 +39,9 @@
       "year": 2012,
       "make": "BMW",
       "model": "1 Series",
-      "condition": "used"
+      "condition": "used",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2013 MINI Cooper Hardtop ",
@@ -54,7 +58,9 @@
       "year": 2013,
       "make": "MINI",
       "model": "Cooper",
-      "condition": "used"
+      "condition": "used",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2015 Infiniti Q50 Basein Richmond",
@@ -72,7 +78,9 @@
       "year": 2015,
       "make": "Infiniti",
       "model": "Q50",
-      "condition": "used"
+      "condition": "used",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2015 Infiniti Q50 ",
@@ -88,7 +96,9 @@
       "year": 2015,
       "make": "Infiniti",
       "model": "Q50",
-      "condition": "used"
+      "condition": "used",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2015 Jeep Grand Cherokee ",
@@ -104,7 +114,9 @@
       "year": 2015,
       "make": "Jeep",
       "model": "Grand Cherokee",
-      "condition": "used"
+      "condition": "used",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2017 BMW 3 Series 328d Xdrivein Richmond",
@@ -122,7 +134,9 @@
       "year": 2017,
       "make": "BMW",
       "model": "3 Series",
-      "condition": "used"
+      "condition": "used",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2017 BMW 3 Series ",
@@ -138,7 +152,9 @@
       "year": 2017,
       "make": "BMW",
       "model": "3 Series",
-      "condition": "used"
+      "condition": "used",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2017 BMW 4 Series 440i Xdrive Coupein Richmond",
@@ -156,7 +172,9 @@
       "year": 2017,
       "make": "BMW",
       "model": "4 Series",
-      "condition": "used"
+      "condition": "used",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2017 BMW 4 Series ",
@@ -172,7 +190,9 @@
       "year": 2017,
       "make": "BMW",
       "model": "4 Series",
-      "condition": "used"
+      "condition": "used",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2017 Infiniti Q60 ",
@@ -188,7 +208,9 @@
       "year": 2017,
       "make": "Infiniti",
       "model": "Q60",
-      "condition": "used"
+      "condition": "used",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2017 Lexus RX ",
@@ -204,7 +226,9 @@
       "year": 2017,
       "make": "Lexus",
       "model": "RX",
-      "condition": "used"
+      "condition": "used",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2017 Mercedes-Benz GLA Gla250 4maticin Richmond",
@@ -222,7 +246,9 @@
       "year": 2017,
       "make": "Mercedes-Benz",
       "model": "GLA",
-      "condition": "used"
+      "condition": "used",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2017 Volvo S60 ",
@@ -238,7 +264,9 @@
       "year": 2017,
       "make": "Volvo",
       "model": "S60",
-      "condition": "used"
+      "condition": "used",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2018 BMW X3 Xdrive30iin Richmond",
@@ -256,7 +284,9 @@
       "year": 2018,
       "make": "BMW",
       "model": "X3",
-      "condition": "used"
+      "condition": "used",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2018 BMW X3 ",
@@ -272,7 +302,9 @@
       "year": 2018,
       "make": "BMW",
       "model": "X3",
-      "condition": "used"
+      "condition": "used",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2018 BMW X3 ",
@@ -288,7 +320,9 @@
       "year": 2018,
       "make": "BMW",
       "model": "X3",
-      "condition": "new"
+      "condition": "new",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2020 BMW M2 CSin Richmond",
@@ -305,7 +339,9 @@
       "year": 2020,
       "make": "BMW",
       "model": "M2 CSin Richmond",
-      "condition": "used"
+      "condition": "used",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2020 BMW M2 ",
@@ -321,7 +357,9 @@
       "year": 2020,
       "make": "BMW",
       "model": "M2",
-      "condition": "used"
+      "condition": "used",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2020 BMW M2 ",
@@ -337,7 +375,9 @@
       "year": 2020,
       "make": "BMW",
       "model": "M2",
-      "condition": "new"
+      "condition": "new",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2020 Toyota C-HR ",
@@ -353,7 +393,9 @@
       "year": 2020,
       "make": "Toyota",
       "model": "C-HR",
-      "condition": "used"
+      "condition": "used",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2020 Toyota C-HR ",
@@ -369,7 +411,9 @@
       "year": 2020,
       "make": "Toyota",
       "model": "C-HR",
-      "condition": "new"
+      "condition": "new",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2021 BMW 2 Series 228i Xdrive Granin Richmond",
@@ -387,7 +431,9 @@
       "year": 2021,
       "make": "BMW",
       "model": "2 Series",
-      "condition": "used"
+      "condition": "used",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2021 BMW 2 Series ",
@@ -403,7 +449,9 @@
       "year": 2021,
       "make": "BMW",
       "model": "2 Series",
-      "condition": "used"
+      "condition": "used",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2021 BMW 2 Series ",
@@ -419,7 +467,9 @@
       "year": 2021,
       "make": "BMW",
       "model": "2 Series",
-      "condition": "new"
+      "condition": "new",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2022 BMW 3 Series 330i Xdrivein Richmond",
@@ -437,7 +487,9 @@
       "year": 2022,
       "make": "BMW",
       "model": "3 Series",
-      "condition": "used"
+      "condition": "used",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2022 BMW 3 Series 330i Xdrivein Richmond",
@@ -455,7 +507,9 @@
       "year": 2022,
       "make": "BMW",
       "model": "3 Series",
-      "condition": "used"
+      "condition": "used",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2022 BMW 3 Series ",
@@ -471,7 +525,9 @@
       "year": 2022,
       "make": "BMW",
       "model": "3 Series",
-      "condition": "used"
+      "condition": "used",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2022 BMW X3in Richmond",
@@ -488,7 +544,9 @@
       "year": 2022,
       "make": "BMW",
       "model": "X3in Richmond",
-      "condition": "used"
+      "condition": "used",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2022 BMW X3 Xdrive30iin Richmond",
@@ -506,7 +564,9 @@
       "year": 2022,
       "make": "BMW",
       "model": "X3",
-      "condition": "used"
+      "condition": "used",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2022 BMW X3 ",
@@ -522,7 +582,9 @@
       "year": 2022,
       "make": "BMW",
       "model": "X3",
-      "condition": "used"
+      "condition": "used",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2022 BMW X5 Xdrive45ein Richmond",
@@ -540,7 +602,9 @@
       "year": 2022,
       "make": "BMW",
       "model": "X5",
-      "condition": "used"
+      "condition": "used",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2022 BMW X5 ",
@@ -556,7 +620,9 @@
       "year": 2022,
       "make": "BMW",
       "model": "X5",
-      "condition": "used"
+      "condition": "used",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2022 BMW 3 Series ",
@@ -572,7 +638,9 @@
       "year": 2022,
       "make": "BMW",
       "model": "3 Series",
-      "condition": "new"
+      "condition": "new",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2022 BMW X3 ",
@@ -588,7 +656,9 @@
       "year": 2022,
       "make": "BMW",
       "model": "X3",
-      "condition": "new"
+      "condition": "new",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2022 BMW X5 ",
@@ -604,7 +674,9 @@
       "year": 2022,
       "make": "BMW",
       "model": "X5",
-      "condition": "new"
+      "condition": "new",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2023 BMW 4 Series 430i Xdrivein Richmond",
@@ -622,7 +694,9 @@
       "year": 2023,
       "make": "BMW",
       "model": "4 Series",
-      "condition": "used"
+      "condition": "used",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2023 BMW 4 Series ",
@@ -638,7 +712,9 @@
       "year": 2023,
       "make": "BMW",
       "model": "4 Series",
-      "condition": "used"
+      "condition": "used",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2023 BMW X1 Xdrive28iin Richmond",
@@ -656,7 +732,9 @@
       "year": 2023,
       "make": "BMW",
       "model": "X1",
-      "condition": "used"
+      "condition": "used",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2023 BMW X1 ",
@@ -672,7 +750,9 @@
       "year": 2023,
       "make": "BMW",
       "model": "X1",
-      "condition": "used"
+      "condition": "used",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2023 BMW X3in Richmond",
@@ -689,7 +769,9 @@
       "year": 2023,
       "make": "BMW",
       "model": "X3in Richmond",
-      "condition": "used"
+      "condition": "used",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2023 BMW X3 Xdrive30iin Richmond",
@@ -707,7 +789,9 @@
       "year": 2023,
       "make": "BMW",
       "model": "X3",
-      "condition": "used"
+      "condition": "used",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2023 BMW X3 ",
@@ -723,7 +807,9 @@
       "year": 2023,
       "make": "BMW",
       "model": "X3",
-      "condition": "used"
+      "condition": "used",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2023 BMW iX Xdrive40in Richmond",
@@ -741,7 +827,9 @@
       "year": 2023,
       "make": "BMW",
       "model": "iX",
-      "condition": "used"
+      "condition": "used",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2023 BMW iX ",
@@ -757,7 +845,9 @@
       "year": 2023,
       "make": "BMW",
       "model": "iX",
-      "condition": "used"
+      "condition": "used",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2023 BMW 4 Series ",
@@ -773,7 +863,9 @@
       "year": 2023,
       "make": "BMW",
       "model": "4 Series",
-      "condition": "new"
+      "condition": "new",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2023 BMW X1 ",
@@ -789,7 +881,9 @@
       "year": 2023,
       "make": "BMW",
       "model": "X1",
-      "condition": "new"
+      "condition": "new",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2023 BMW X3 ",
@@ -805,7 +899,9 @@
       "year": 2023,
       "make": "BMW",
       "model": "X3",
-      "condition": "new"
+      "condition": "new",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2023 BMW iX ",
@@ -821,7 +917,9 @@
       "year": 2023,
       "make": "BMW",
       "model": "iX",
-      "condition": "new"
+      "condition": "new",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2023 Kia Sportage ",
@@ -837,7 +935,9 @@
       "year": 2023,
       "make": "Kia",
       "model": "Sportage",
-      "condition": "used"
+      "condition": "used",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2023 Kia Sportage ",
@@ -853,7 +953,9 @@
       "year": 2023,
       "make": "Kia",
       "model": "Sportage",
-      "condition": "new"
+      "condition": "new",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2024 BMW 2 Series 228i Xdrivein Richmond",
@@ -871,7 +973,9 @@
       "year": 2024,
       "make": "BMW",
       "model": "2 Series",
-      "condition": "used"
+      "condition": "used",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2024 BMW 2 Series ",
@@ -887,7 +991,9 @@
       "year": 2024,
       "make": "BMW",
       "model": "2 Series",
-      "condition": "used"
+      "condition": "used",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2024 BMW 330iin Richmond",
@@ -904,7 +1010,9 @@
       "year": 2024,
       "make": "BMW",
       "model": "330iin Richmond",
-      "condition": "used"
+      "condition": "used",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2024 BMW 330i ",
@@ -920,7 +1028,9 @@
       "year": 2024,
       "make": "BMW",
       "model": "330i",
-      "condition": "used"
+      "condition": "used",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2024 BMW M4 Competitionin Richmond",
@@ -937,7 +1047,9 @@
       "year": 2024,
       "make": "BMW",
       "model": "M4 Competitionin Richmond",
-      "condition": "used"
+      "condition": "used",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2024 BMW M4 ",
@@ -953,7 +1065,9 @@
       "year": 2024,
       "make": "BMW",
       "model": "M4",
-      "condition": "used"
+      "condition": "used",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2024 BMW X1 Xdrive28iin Richmond",
@@ -971,7 +1085,9 @@
       "year": 2024,
       "make": "BMW",
       "model": "X1",
-      "condition": "used"
+      "condition": "used",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2024 BMW X1 M35i Xdrivein Richmond",
@@ -989,7 +1105,9 @@
       "year": 2024,
       "make": "BMW",
       "model": "X1",
-      "condition": "used"
+      "condition": "used",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2024 BMW X1 ",
@@ -1005,7 +1123,9 @@
       "year": 2024,
       "make": "BMW",
       "model": "X1",
-      "condition": "used"
+      "condition": "used",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2024 BMW X2 M35iin Richmond",
@@ -1023,7 +1143,9 @@
       "year": 2024,
       "make": "BMW",
       "model": "X2",
-      "condition": "used"
+      "condition": "used",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2024 BMW X2 ",
@@ -1039,7 +1161,9 @@
       "year": 2024,
       "make": "BMW",
       "model": "X2",
-      "condition": "used"
+      "condition": "used",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2024 BMW X3in Richmond",
@@ -1056,7 +1180,9 @@
       "year": 2024,
       "make": "BMW",
       "model": "X3in Richmond",
-      "condition": "used"
+      "condition": "used",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2024 BMW X3 30xi (xdrivein Richmond",
@@ -1074,7 +1200,9 @@
       "year": 2024,
       "make": "BMW",
       "model": "X3",
-      "condition": "used"
+      "condition": "used",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2024 BMW X3 Xdrive30ein Richmond",
@@ -1092,7 +1220,9 @@
       "year": 2024,
       "make": "BMW",
       "model": "X3",
-      "condition": "used"
+      "condition": "used",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2024 BMW X3 Xdrive30iin Richmond",
@@ -1109,7 +1239,9 @@
       "year": 2024,
       "make": "BMW",
       "model": "X3",
-      "condition": "used"
+      "condition": "used",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2024 BMW X3 ",
@@ -1125,7 +1257,9 @@
       "year": 2024,
       "make": "BMW",
       "model": "X3",
-      "condition": "used"
+      "condition": "used",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2024 BMW 2 Series ",
@@ -1141,7 +1275,9 @@
       "year": 2024,
       "make": "BMW",
       "model": "2 Series",
-      "condition": "new"
+      "condition": "new",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2024 BMW 330i ",
@@ -1157,7 +1293,9 @@
       "year": 2024,
       "make": "BMW",
       "model": "330i",
-      "condition": "new"
+      "condition": "new",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2024 BMW M4 ",
@@ -1173,7 +1311,9 @@
       "year": 2024,
       "make": "BMW",
       "model": "M4",
-      "condition": "new"
+      "condition": "new",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2024 BMW X1 ",
@@ -1189,7 +1329,9 @@
       "year": 2024,
       "make": "BMW",
       "model": "X1",
-      "condition": "new"
+      "condition": "new",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2024 BMW X2 ",
@@ -1205,7 +1347,9 @@
       "year": 2024,
       "make": "BMW",
       "model": "X2",
-      "condition": "new"
+      "condition": "new",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2024 BMW X3 ",
@@ -1221,7 +1365,9 @@
       "year": 2024,
       "make": "BMW",
       "model": "X3",
-      "condition": "new"
+      "condition": "new",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2025 BMW 3 Series M340i Xdrivein Richmond",
@@ -1239,7 +1385,9 @@
       "year": 2025,
       "make": "BMW",
       "model": "3 Series",
-      "condition": "used"
+      "condition": "used",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2025 BMW 3 Series ",
@@ -1255,7 +1403,9 @@
       "year": 2025,
       "make": "BMW",
       "model": "3 Series",
-      "condition": "used"
+      "condition": "used",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2025 BMW 4 Series M440i Xdrivein Richmond",
@@ -1273,7 +1423,9 @@
       "year": 2025,
       "make": "BMW",
       "model": "4 Series",
-      "condition": "used"
+      "condition": "used",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2025 BMW 4 Series ",
@@ -1289,7 +1441,9 @@
       "year": 2025,
       "make": "BMW",
       "model": "4 Series",
-      "condition": "used"
+      "condition": "used",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2025 BMW M2in Richmond",
@@ -1306,7 +1460,9 @@
       "year": 2025,
       "make": "BMW",
       "model": "M2in Richmond",
-      "condition": "used"
+      "condition": "used",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2025 BMW M2 ",
@@ -1322,7 +1478,9 @@
       "year": 2025,
       "make": "BMW",
       "model": "M2",
-      "condition": "used"
+      "condition": "used",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2025 BMW i4 M50in Richmond",
@@ -1340,7 +1498,9 @@
       "year": 2025,
       "make": "BMW",
       "model": "i4",
-      "condition": "used"
+      "condition": "used",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2025 BMW i4 ",
@@ -1356,7 +1516,9 @@
       "year": 2025,
       "make": "BMW",
       "model": "i4",
-      "condition": "used"
+      "condition": "used",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2025 BMW 3 Series ",
@@ -1372,7 +1534,9 @@
       "year": 2025,
       "make": "BMW",
       "model": "3 Series",
-      "condition": "new"
+      "condition": "new",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2025 BMW 4 Series ",
@@ -1388,7 +1552,9 @@
       "year": 2025,
       "make": "BMW",
       "model": "4 Series",
-      "condition": "new"
+      "condition": "new",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2025 BMW M2 ",
@@ -1404,7 +1570,9 @@
       "year": 2025,
       "make": "BMW",
       "model": "M2",
-      "condition": "new"
+      "condition": "new",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2025 BMW i4 ",
@@ -1420,7 +1588,9 @@
       "year": 2025,
       "make": "BMW",
       "model": "i4",
-      "condition": "new"
+      "condition": "new",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2025 Chevrolet Corvette ",
@@ -1436,7 +1606,9 @@
       "year": 2025,
       "make": "Chevrolet",
       "model": "Corvette",
-      "condition": "used"
+      "condition": "used",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2025 Chevrolet Corvette ",
@@ -1452,7 +1624,9 @@
       "year": 2025,
       "make": "Chevrolet",
       "model": "Corvette",
-      "condition": "new"
+      "condition": "new",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2025 Mazda CX-5 ",
@@ -1468,7 +1642,9 @@
       "year": 2025,
       "make": "Mazda",
       "model": "CX-5",
-      "condition": "used"
+      "condition": "used",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2025 Mazda CX-5 ",
@@ -1484,7 +1660,9 @@
       "year": 2025,
       "make": "Mazda",
       "model": "CX-5",
-      "condition": "new"
+      "condition": "new",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2026 BMW 2 Series ",
@@ -1500,7 +1678,9 @@
       "year": 2026,
       "make": "BMW",
       "model": "2 Series",
-      "condition": "used"
+      "condition": "used",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2026 BMW 2 Series ",
@@ -1516,7 +1696,9 @@
       "year": 2026,
       "make": "BMW",
       "model": "2 Series",
-      "condition": "used"
+      "condition": "used",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2026 BMW 2 Series ",
@@ -1532,7 +1714,9 @@
       "year": 2026,
       "make": "BMW",
       "model": "2 Series",
-      "condition": "used"
+      "condition": "used",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2026 BMW 3 Series ",
@@ -1548,7 +1732,9 @@
       "year": 2026,
       "make": "BMW",
       "model": "3 Series",
-      "condition": "used"
+      "condition": "used",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2026 BMW 3 Series ",
@@ -1564,7 +1750,9 @@
       "year": 2026,
       "make": "BMW",
       "model": "3 Series",
-      "condition": "used"
+      "condition": "used",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2026 BMW 3 Series ",
@@ -1580,7 +1768,9 @@
       "year": 2026,
       "make": "BMW",
       "model": "3 Series",
-      "condition": "used"
+      "condition": "used",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2026 BMW 4 Series ",
@@ -1596,7 +1786,9 @@
       "year": 2026,
       "make": "BMW",
       "model": "4 Series",
-      "condition": "used"
+      "condition": "used",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2026 BMW 4 Series ",
@@ -1612,7 +1804,9 @@
       "year": 2026,
       "make": "BMW",
       "model": "4 Series",
-      "condition": "used"
+      "condition": "used",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2026 BMW 4 Series Convertible - Cabrioletin Richmond",
@@ -1627,7 +1821,9 @@
       "year": 2026,
       "make": "BMW",
       "model": "4 Series",
-      "condition": "used"
+      "condition": "used",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2026 BMW 4 Series Convertible - Cabrioletin Richmond",
@@ -1642,7 +1838,9 @@
       "year": 2026,
       "make": "BMW",
       "model": "4 Series",
-      "condition": "used"
+      "condition": "used",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2026 BMW 5 Series ",
@@ -1658,7 +1856,9 @@
       "year": 2026,
       "make": "BMW",
       "model": "5 Series",
-      "condition": "used"
+      "condition": "used",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2026 BMW 5 Series ",
@@ -1674,7 +1874,9 @@
       "year": 2026,
       "make": "BMW",
       "model": "5 Series",
-      "condition": "used"
+      "condition": "used",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2026 BMW 5 Series ",
@@ -1690,7 +1892,9 @@
       "year": 2026,
       "make": "BMW",
       "model": "5 Series",
-      "condition": "used"
+      "condition": "used",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2026 BMW 7 Seriesin Richmond",
@@ -1704,7 +1908,9 @@
       "year": 2026,
       "make": "BMW",
       "model": "7 Seriesin Richmond",
-      "condition": "used"
+      "condition": "used",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2026 BMW 7 Series ",
@@ -1720,7 +1926,9 @@
       "year": 2026,
       "make": "BMW",
       "model": "7 Series",
-      "condition": "used"
+      "condition": "used",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2026 BMW 8 Series ",
@@ -1736,7 +1944,9 @@
       "year": 2026,
       "make": "BMW",
       "model": "8 Series",
-      "condition": "used"
+      "condition": "used",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2026 BMW 8 Series ",
@@ -1752,7 +1962,9 @@
       "year": 2026,
       "make": "BMW",
       "model": "8 Series",
-      "condition": "used"
+      "condition": "used",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2026 BMW 8 Series Convertible - Cabrioletin Richmond",
@@ -1767,7 +1979,9 @@
       "year": 2026,
       "make": "BMW",
       "model": "8 Series",
-      "condition": "used"
+      "condition": "used",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2026 BMW 8 Series Convertible - Cabrioletin Richmond",
@@ -1782,7 +1996,9 @@
       "year": 2026,
       "make": "BMW",
       "model": "8 Series",
-      "condition": "used"
+      "condition": "used",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2026 BMW M3 ",
@@ -1798,7 +2014,9 @@
       "year": 2026,
       "make": "BMW",
       "model": "M3",
-      "condition": "used"
+      "condition": "used",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2026 BMW M4 ",
@@ -1814,7 +2032,9 @@
       "year": 2026,
       "make": "BMW",
       "model": "M4",
-      "condition": "used"
+      "condition": "used",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2026 BMW M4 ",
@@ -1830,7 +2050,9 @@
       "year": 2026,
       "make": "BMW",
       "model": "M4",
-      "condition": "used"
+      "condition": "used",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2026 BMW M5 ",
@@ -1846,7 +2068,9 @@
       "year": 2026,
       "make": "BMW",
       "model": "M5",
-      "condition": "used"
+      "condition": "used",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2026 BMW X1 ",
@@ -1862,7 +2086,9 @@
       "year": 2026,
       "make": "BMW",
       "model": "X1",
-      "condition": "used"
+      "condition": "used",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2026 BMW X2 ",
@@ -1878,7 +2104,9 @@
       "year": 2026,
       "make": "BMW",
       "model": "X2",
-      "condition": "used"
+      "condition": "used",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2026 BMW X3 ",
@@ -1894,7 +2122,9 @@
       "year": 2026,
       "make": "BMW",
       "model": "X3",
-      "condition": "used"
+      "condition": "used",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2026 BMW X5 ",
@@ -1910,7 +2140,9 @@
       "year": 2026,
       "make": "BMW",
       "model": "X5",
-      "condition": "used"
+      "condition": "used",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2026 BMW X5 M ",
@@ -1927,7 +2159,9 @@
       "year": 2026,
       "make": "BMW",
       "model": "X5",
-      "condition": "used"
+      "condition": "used",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2026 BMW X5 ",
@@ -1943,7 +2177,9 @@
       "year": 2026,
       "make": "BMW",
       "model": "X5",
-      "condition": "used"
+      "condition": "used",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2026 BMW X6 ",
@@ -1959,7 +2195,9 @@
       "year": 2026,
       "make": "BMW",
       "model": "X6",
-      "condition": "used"
+      "condition": "used",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2026 BMW X6 M ",
@@ -1976,7 +2214,9 @@
       "year": 2026,
       "make": "BMW",
       "model": "X6",
-      "condition": "used"
+      "condition": "used",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2026 BMW X7 ",
@@ -1992,7 +2232,9 @@
       "year": 2026,
       "make": "BMW",
       "model": "X7",
-      "condition": "used"
+      "condition": "used",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2026 BMW XMin Richmond",
@@ -2006,7 +2248,9 @@
       "year": 2026,
       "make": "BMW",
       "model": "XMin Richmond",
-      "condition": "used"
+      "condition": "used",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2026 BMW i4 ",
@@ -2022,7 +2266,9 @@
       "year": 2026,
       "make": "BMW",
       "model": "i4",
-      "condition": "used"
+      "condition": "used",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2026 BMW i7 ",
@@ -2038,7 +2284,9 @@
       "year": 2026,
       "make": "BMW",
       "model": "i7",
-      "condition": "used"
+      "condition": "used",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2026 BMW iX ",
@@ -2054,7 +2302,9 @@
       "year": 2026,
       "make": "BMW",
       "model": "iX",
-      "condition": "used"
+      "condition": "used",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2026 BMW M4 Competitionin Richmond",
@@ -2071,7 +2321,9 @@
       "year": 2026,
       "make": "BMW",
       "model": "M4 Competitionin Richmond",
-      "condition": "used"
+      "condition": "used",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2026 BMW M4 Coupein Richmond",
@@ -2088,7 +2340,9 @@
       "year": 2026,
       "make": "BMW",
       "model": "M4 Coupein Richmond",
-      "condition": "used"
+      "condition": "used",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2026 BMW M4 ",
@@ -2104,7 +2358,9 @@
       "year": 2026,
       "make": "BMW",
       "model": "M4",
-      "condition": "used"
+      "condition": "used",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2026 BMW M5 Sedanin Richmond",
@@ -2121,7 +2377,9 @@
       "year": 2026,
       "make": "BMW",
       "model": "M5 Sedanin Richmond",
-      "condition": "used"
+      "condition": "used",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2026 BMW M5 ",
@@ -2137,7 +2395,9 @@
       "year": 2026,
       "make": "BMW",
       "model": "M5",
-      "condition": "used"
+      "condition": "used",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2026 BMW X5 Xdrive40iin Richmond",
@@ -2155,7 +2415,9 @@
       "year": 2026,
       "make": "BMW",
       "model": "X5",
-      "condition": "used"
+      "condition": "used",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2026 BMW X5 ",
@@ -2171,7 +2433,9 @@
       "year": 2026,
       "make": "BMW",
       "model": "X5",
-      "condition": "used"
+      "condition": "used",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2026 BMW 2 Series ",
@@ -2187,7 +2451,9 @@
       "year": 2026,
       "make": "BMW",
       "model": "2 Series",
-      "condition": "new"
+      "condition": "new",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2026 BMW 2 Series ",
@@ -2203,7 +2469,9 @@
       "year": 2026,
       "make": "BMW",
       "model": "2 Series",
-      "condition": "new"
+      "condition": "new",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2026 BMW 2 Series ",
@@ -2219,7 +2487,9 @@
       "year": 2026,
       "make": "BMW",
       "model": "2 Series",
-      "condition": "new"
+      "condition": "new",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2026 BMW 3 Series ",
@@ -2235,7 +2505,9 @@
       "year": 2026,
       "make": "BMW",
       "model": "3 Series",
-      "condition": "new"
+      "condition": "new",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2026 BMW 3 Series ",
@@ -2251,7 +2523,9 @@
       "year": 2026,
       "make": "BMW",
       "model": "3 Series",
-      "condition": "new"
+      "condition": "new",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2026 BMW 3 Series ",
@@ -2267,7 +2541,9 @@
       "year": 2026,
       "make": "BMW",
       "model": "3 Series",
-      "condition": "new"
+      "condition": "new",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2026 BMW 4 Series ",
@@ -2283,7 +2559,9 @@
       "year": 2026,
       "make": "BMW",
       "model": "4 Series",
-      "condition": "new"
+      "condition": "new",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2026 BMW 4 Series ",
@@ -2299,7 +2577,9 @@
       "year": 2026,
       "make": "BMW",
       "model": "4 Series",
-      "condition": "new"
+      "condition": "new",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2026 BMW 4 Series Convertible - Cabrioletin Richmond",
@@ -2314,7 +2594,9 @@
       "year": 2026,
       "make": "BMW",
       "model": "4 Series",
-      "condition": "new"
+      "condition": "new",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2026 BMW 4 Series Convertible - Cabrioletin Richmond",
@@ -2329,7 +2611,9 @@
       "year": 2026,
       "make": "BMW",
       "model": "4 Series",
-      "condition": "new"
+      "condition": "new",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2026 BMW 5 Series ",
@@ -2345,7 +2629,9 @@
       "year": 2026,
       "make": "BMW",
       "model": "5 Series",
-      "condition": "new"
+      "condition": "new",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2026 BMW 5 Series ",
@@ -2361,7 +2647,9 @@
       "year": 2026,
       "make": "BMW",
       "model": "5 Series",
-      "condition": "new"
+      "condition": "new",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2026 BMW 5 Series ",
@@ -2377,7 +2665,9 @@
       "year": 2026,
       "make": "BMW",
       "model": "5 Series",
-      "condition": "new"
+      "condition": "new",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2026 BMW 7 Seriesin Richmond",
@@ -2391,7 +2681,9 @@
       "year": 2026,
       "make": "BMW",
       "model": "7 Seriesin Richmond",
-      "condition": "new"
+      "condition": "new",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2026 BMW 7 Series ",
@@ -2407,7 +2699,9 @@
       "year": 2026,
       "make": "BMW",
       "model": "7 Series",
-      "condition": "new"
+      "condition": "new",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2026 BMW 8 Series ",
@@ -2423,7 +2717,9 @@
       "year": 2026,
       "make": "BMW",
       "model": "8 Series",
-      "condition": "new"
+      "condition": "new",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2026 BMW 8 Series ",
@@ -2439,7 +2735,9 @@
       "year": 2026,
       "make": "BMW",
       "model": "8 Series",
-      "condition": "new"
+      "condition": "new",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2026 BMW 8 Series Convertible - Cabrioletin Richmond",
@@ -2454,7 +2752,9 @@
       "year": 2026,
       "make": "BMW",
       "model": "8 Series",
-      "condition": "new"
+      "condition": "new",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2026 BMW 8 Series Convertible - Cabrioletin Richmond",
@@ -2469,7 +2769,9 @@
       "year": 2026,
       "make": "BMW",
       "model": "8 Series",
-      "condition": "new"
+      "condition": "new",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2026 BMW M3 ",
@@ -2485,7 +2787,9 @@
       "year": 2026,
       "make": "BMW",
       "model": "M3",
-      "condition": "new"
+      "condition": "new",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2026 BMW M4 ",
@@ -2501,7 +2805,9 @@
       "year": 2026,
       "make": "BMW",
       "model": "M4",
-      "condition": "new"
+      "condition": "new",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2026 BMW M4 ",
@@ -2517,7 +2823,9 @@
       "year": 2026,
       "make": "BMW",
       "model": "M4",
-      "condition": "new"
+      "condition": "new",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2026 BMW M5 ",
@@ -2533,7 +2841,9 @@
       "year": 2026,
       "make": "BMW",
       "model": "M5",
-      "condition": "new"
+      "condition": "new",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2026 BMW X1 ",
@@ -2549,7 +2859,9 @@
       "year": 2026,
       "make": "BMW",
       "model": "X1",
-      "condition": "new"
+      "condition": "new",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2026 BMW X2 ",
@@ -2565,7 +2877,9 @@
       "year": 2026,
       "make": "BMW",
       "model": "X2",
-      "condition": "new"
+      "condition": "new",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2026 BMW X3 ",
@@ -2581,7 +2895,9 @@
       "year": 2026,
       "make": "BMW",
       "model": "X3",
-      "condition": "new"
+      "condition": "new",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2026 BMW X5 ",
@@ -2597,7 +2913,9 @@
       "year": 2026,
       "make": "BMW",
       "model": "X5",
-      "condition": "new"
+      "condition": "new",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2026 BMW X5 M ",
@@ -2614,7 +2932,9 @@
       "year": 2026,
       "make": "BMW",
       "model": "X5",
-      "condition": "new"
+      "condition": "new",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2026 BMW X5 ",
@@ -2630,7 +2950,9 @@
       "year": 2026,
       "make": "BMW",
       "model": "X5",
-      "condition": "new"
+      "condition": "new",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2026 BMW X6 ",
@@ -2646,7 +2968,9 @@
       "year": 2026,
       "make": "BMW",
       "model": "X6",
-      "condition": "new"
+      "condition": "new",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2026 BMW X6 M ",
@@ -2663,7 +2987,9 @@
       "year": 2026,
       "make": "BMW",
       "model": "X6",
-      "condition": "new"
+      "condition": "new",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2026 BMW X7 ",
@@ -2679,7 +3005,9 @@
       "year": 2026,
       "make": "BMW",
       "model": "X7",
-      "condition": "new"
+      "condition": "new",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2026 BMW XMin Richmond",
@@ -2693,7 +3021,9 @@
       "year": 2026,
       "make": "BMW",
       "model": "XMin Richmond",
-      "condition": "new"
+      "condition": "new",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2026 BMW i4 ",
@@ -2709,7 +3039,9 @@
       "year": 2026,
       "make": "BMW",
       "model": "i4",
-      "condition": "new"
+      "condition": "new",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2026 BMW i7 ",
@@ -2725,7 +3057,9 @@
       "year": 2026,
       "make": "BMW",
       "model": "i7",
-      "condition": "new"
+      "condition": "new",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2026 BMW iX ",
@@ -2741,7 +3075,9 @@
       "year": 2026,
       "make": "BMW",
       "model": "iX",
-      "condition": "new"
+      "condition": "new",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2026 BMW 2 Series 228i Xdrivein Richmond",
@@ -2758,7 +3094,9 @@
       "year": 2026,
       "make": "BMW",
       "model": "2 Series",
-      "condition": "new"
+      "condition": "new",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2026 BMW 2 Series 228i Xdrivein Richmond",
@@ -2775,7 +3113,9 @@
       "year": 2026,
       "make": "BMW",
       "model": "2 Series",
-      "condition": "new"
+      "condition": "new",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2026 BMW 2 Series 228i Xdrivein Richmond",
@@ -2792,7 +3132,9 @@
       "year": 2026,
       "make": "BMW",
       "model": "2 Series",
-      "condition": "new"
+      "condition": "new",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2026 BMW 2 Series 228i Xdrivein Richmond",
@@ -2809,7 +3151,9 @@
       "year": 2026,
       "make": "BMW",
       "model": "2 Series",
-      "condition": "new"
+      "condition": "new",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2026 BMW 2 Series 228 Xdrivein Richmond",
@@ -2826,7 +3170,9 @@
       "year": 2026,
       "make": "BMW",
       "model": "2 Series",
-      "condition": "new"
+      "condition": "new",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2026 BMW X1 Xdrive28iin Richmond",
@@ -2843,7 +3189,9 @@
       "year": 2026,
       "make": "BMW",
       "model": "X1",
-      "condition": "new"
+      "condition": "new",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2026 BMW X1 Xdrive28iin Richmond",
@@ -2860,7 +3208,9 @@
       "year": 2026,
       "make": "BMW",
       "model": "X1",
-      "condition": "new"
+      "condition": "new",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2026 BMW X1 Xdrive28iin Richmond",
@@ -2877,7 +3227,9 @@
       "year": 2026,
       "make": "BMW",
       "model": "X1",
-      "condition": "new"
+      "condition": "new",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2026 BMW X2 Xdrive28iin Richmond",
@@ -2894,7 +3246,9 @@
       "year": 2026,
       "make": "BMW",
       "model": "X2",
-      "condition": "new"
+      "condition": "new",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2026 BMW M4 ",
@@ -2910,7 +3264,9 @@
       "year": 2026,
       "make": "BMW",
       "model": "M4",
-      "condition": "new"
+      "condition": "new",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2026 BMW M5 ",
@@ -2926,7 +3282,9 @@
       "year": 2026,
       "make": "BMW",
       "model": "M5",
-      "condition": "new"
+      "condition": "new",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2026 BMW X5 ",
@@ -2942,7 +3300,9 @@
       "year": 2026,
       "make": "BMW",
       "model": "X5",
-      "condition": "new"
+      "condition": "new",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2026 Lexus RZ ",
@@ -2958,7 +3318,9 @@
       "year": 2026,
       "make": "Lexus",
       "model": "RZ",
-      "condition": "used"
+      "condition": "used",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2026 Lexus RZ ",
@@ -2974,7 +3336,9 @@
       "year": 2026,
       "make": "Lexus",
       "model": "RZ",
-      "condition": "new"
+      "condition": "new",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2027 BMW 4 Series ",
@@ -2990,7 +3354,9 @@
       "year": 2027,
       "make": "BMW",
       "model": "4 Series",
-      "condition": "used"
+      "condition": "used",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2027 BMW 4 Series ",
@@ -3006,7 +3372,9 @@
       "year": 2027,
       "make": "BMW",
       "model": "4 Series",
-      "condition": "used"
+      "condition": "used",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2027 BMW 4 Series ",
@@ -3022,7 +3390,9 @@
       "year": 2027,
       "make": "BMW",
       "model": "4 Series",
-      "condition": "used"
+      "condition": "used",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2027 BMW 4 Series ",
@@ -3038,7 +3408,9 @@
       "year": 2027,
       "make": "BMW",
       "model": "4 Series",
-      "condition": "used"
+      "condition": "used",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2027 BMW 4 Series ",
@@ -3054,7 +3426,9 @@
       "year": 2027,
       "make": "BMW",
       "model": "4 Series",
-      "condition": "used"
+      "condition": "used",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2027 BMW 4 Series ",
@@ -3070,7 +3444,9 @@
       "year": 2027,
       "make": "BMW",
       "model": "4 Series",
-      "condition": "used"
+      "condition": "used",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2027 BMW 5 Seriesin Richmond",
@@ -3084,7 +3460,9 @@
       "year": 2027,
       "make": "BMW",
       "model": "5 Seriesin Richmond",
-      "condition": "used"
+      "condition": "used",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2027 BMW 5 Seriesin Richmond",
@@ -3098,7 +3476,9 @@
       "year": 2027,
       "make": "BMW",
       "model": "5 Seriesin Richmond",
-      "condition": "used"
+      "condition": "used",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2027 BMW 5 Series PHEVin Richmond",
@@ -3113,7 +3493,9 @@
       "year": 2027,
       "make": "BMW",
       "model": "5 Series",
-      "condition": "used"
+      "condition": "used",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2027 BMW 7 Seriesin Richmond",
@@ -3127,7 +3509,9 @@
       "year": 2027,
       "make": "BMW",
       "model": "7 Seriesin Richmond",
-      "condition": "used"
+      "condition": "used",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2027 BMW 7 Seriesin Richmond",
@@ -3141,7 +3525,9 @@
       "year": 2027,
       "make": "BMW",
       "model": "7 Seriesin Richmond",
-      "condition": "used"
+      "condition": "used",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2027 BMW 7 Series PHEVin Richmond",
@@ -3156,7 +3542,9 @@
       "year": 2027,
       "make": "BMW",
       "model": "7 Series",
-      "condition": "used"
+      "condition": "used",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2027 BMW M3 ",
@@ -3172,7 +3560,9 @@
       "year": 2027,
       "make": "BMW",
       "model": "M3",
-      "condition": "used"
+      "condition": "used",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2027 BMW M4 ",
@@ -3188,7 +3578,9 @@
       "year": 2027,
       "make": "BMW",
       "model": "M4",
-      "condition": "used"
+      "condition": "used",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2027 BMW M4 ",
@@ -3204,7 +3596,9 @@
       "year": 2027,
       "make": "BMW",
       "model": "M4",
-      "condition": "used"
+      "condition": "used",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2027 BMW M5 ",
@@ -3220,7 +3614,9 @@
       "year": 2027,
       "make": "BMW",
       "model": "M5",
-      "condition": "used"
+      "condition": "used",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2027 BMW X1 ",
@@ -3236,7 +3632,9 @@
       "year": 2027,
       "make": "BMW",
       "model": "X1",
-      "condition": "used"
+      "condition": "used",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2027 BMW X2 ",
@@ -3252,7 +3650,9 @@
       "year": 2027,
       "make": "BMW",
       "model": "X2",
-      "condition": "used"
+      "condition": "used",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2027 BMW X5in Richmond",
@@ -3266,7 +3666,9 @@
       "year": 2027,
       "make": "BMW",
       "model": "X5in Richmond",
-      "condition": "used"
+      "condition": "used",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2027 BMW X6 ",
@@ -3282,7 +3684,9 @@
       "year": 2027,
       "make": "BMW",
       "model": "X6",
-      "condition": "used"
+      "condition": "used",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2027 BMW X6 M ",
@@ -3299,7 +3703,9 @@
       "year": 2027,
       "make": "BMW",
       "model": "X6",
-      "condition": "used"
+      "condition": "used",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2027 BMW X7 ",
@@ -3315,7 +3721,9 @@
       "year": 2027,
       "make": "BMW",
       "model": "X7",
-      "condition": "used"
+      "condition": "used",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2027 BMW XMin Richmond",
@@ -3329,7 +3737,9 @@
       "year": 2027,
       "make": "BMW",
       "model": "XMin Richmond",
-      "condition": "used"
+      "condition": "used",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2027 BMW i7in Richmond",
@@ -3343,7 +3753,9 @@
       "year": 2027,
       "make": "BMW",
       "model": "i7in Richmond",
-      "condition": "used"
+      "condition": "used",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2027 BMW iX3 ",
@@ -3359,7 +3771,9 @@
       "year": 2027,
       "make": "BMW",
       "model": "iX3",
-      "condition": "used"
+      "condition": "used",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2027 BMW 4 Series ",
@@ -3375,7 +3789,9 @@
       "year": 2027,
       "make": "BMW",
       "model": "4 Series",
-      "condition": "new"
+      "condition": "new",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2027 BMW 4 Series ",
@@ -3391,7 +3807,9 @@
       "year": 2027,
       "make": "BMW",
       "model": "4 Series",
-      "condition": "new"
+      "condition": "new",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2027 BMW 4 Series ",
@@ -3407,7 +3825,9 @@
       "year": 2027,
       "make": "BMW",
       "model": "4 Series",
-      "condition": "new"
+      "condition": "new",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2027 BMW 4 Series ",
@@ -3423,7 +3843,9 @@
       "year": 2027,
       "make": "BMW",
       "model": "4 Series",
-      "condition": "new"
+      "condition": "new",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2027 BMW 4 Series ",
@@ -3439,7 +3861,9 @@
       "year": 2027,
       "make": "BMW",
       "model": "4 Series",
-      "condition": "new"
+      "condition": "new",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2027 BMW 4 Series ",
@@ -3455,7 +3879,9 @@
       "year": 2027,
       "make": "BMW",
       "model": "4 Series",
-      "condition": "new"
+      "condition": "new",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2027 BMW 5 Seriesin Richmond",
@@ -3469,7 +3895,9 @@
       "year": 2027,
       "make": "BMW",
       "model": "5 Seriesin Richmond",
-      "condition": "new"
+      "condition": "new",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2027 BMW 5 Seriesin Richmond",
@@ -3483,7 +3911,9 @@
       "year": 2027,
       "make": "BMW",
       "model": "5 Seriesin Richmond",
-      "condition": "new"
+      "condition": "new",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2027 BMW 5 Series PHEVin Richmond",
@@ -3498,7 +3928,9 @@
       "year": 2027,
       "make": "BMW",
       "model": "5 Series",
-      "condition": "new"
+      "condition": "new",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2027 BMW 7 Seriesin Richmond",
@@ -3512,7 +3944,9 @@
       "year": 2027,
       "make": "BMW",
       "model": "7 Seriesin Richmond",
-      "condition": "new"
+      "condition": "new",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2027 BMW 7 Seriesin Richmond",
@@ -3526,7 +3960,9 @@
       "year": 2027,
       "make": "BMW",
       "model": "7 Seriesin Richmond",
-      "condition": "new"
+      "condition": "new",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2027 BMW 7 Series PHEVin Richmond",
@@ -3541,7 +3977,9 @@
       "year": 2027,
       "make": "BMW",
       "model": "7 Series",
-      "condition": "new"
+      "condition": "new",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2027 BMW M3 ",
@@ -3557,7 +3995,9 @@
       "year": 2027,
       "make": "BMW",
       "model": "M3",
-      "condition": "new"
+      "condition": "new",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2027 BMW M4 ",
@@ -3573,7 +4013,9 @@
       "year": 2027,
       "make": "BMW",
       "model": "M4",
-      "condition": "new"
+      "condition": "new",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2027 BMW M4 ",
@@ -3589,7 +4031,9 @@
       "year": 2027,
       "make": "BMW",
       "model": "M4",
-      "condition": "new"
+      "condition": "new",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2027 BMW M5 ",
@@ -3605,7 +4049,9 @@
       "year": 2027,
       "make": "BMW",
       "model": "M5",
-      "condition": "new"
+      "condition": "new",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2027 BMW X1 ",
@@ -3621,7 +4067,9 @@
       "year": 2027,
       "make": "BMW",
       "model": "X1",
-      "condition": "new"
+      "condition": "new",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2027 BMW X2 ",
@@ -3637,7 +4085,9 @@
       "year": 2027,
       "make": "BMW",
       "model": "X2",
-      "condition": "new"
+      "condition": "new",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2027 BMW X5in Richmond",
@@ -3651,7 +4101,9 @@
       "year": 2027,
       "make": "BMW",
       "model": "X5in Richmond",
-      "condition": "new"
+      "condition": "new",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2027 BMW X6 ",
@@ -3667,7 +4119,9 @@
       "year": 2027,
       "make": "BMW",
       "model": "X6",
-      "condition": "new"
+      "condition": "new",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2027 BMW X6 M ",
@@ -3684,7 +4138,9 @@
       "year": 2027,
       "make": "BMW",
       "model": "X6",
-      "condition": "new"
+      "condition": "new",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2027 BMW X7 ",
@@ -3700,7 +4156,9 @@
       "year": 2027,
       "make": "BMW",
       "model": "X7",
-      "condition": "new"
+      "condition": "new",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2027 BMW XMin Richmond",
@@ -3714,7 +4172,9 @@
       "year": 2027,
       "make": "BMW",
       "model": "XMin Richmond",
-      "condition": "new"
+      "condition": "new",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2027 BMW i7in Richmond",
@@ -3728,7 +4188,9 @@
       "year": 2027,
       "make": "BMW",
       "model": "i7in Richmond",
-      "condition": "new"
+      "condition": "new",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2027 BMW iX3 ",
@@ -3744,7 +4206,9 @@
       "year": 2027,
       "make": "BMW",
       "model": "iX3",
-      "condition": "new"
+      "condition": "new",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2027 BMW X1in Richmond",
@@ -3760,7 +4224,9 @@
       "year": 2027,
       "make": "BMW",
       "model": "X1in Richmond",
-      "condition": "new"
+      "condition": "new",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2027 BMW X1 Xdrive28iin Richmond",
@@ -3777,7 +4243,9 @@
       "year": 2027,
       "make": "BMW",
       "model": "X1",
-      "condition": "new"
+      "condition": "new",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2027 BMW X1in Richmond",
@@ -3793,7 +4261,9 @@
       "year": 2027,
       "make": "BMW",
       "model": "X1in Richmond",
-      "condition": "new"
+      "condition": "new",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2027 BMW X1in Richmond",
@@ -3809,7 +4279,9 @@
       "year": 2027,
       "make": "BMW",
       "model": "X1in Richmond",
-      "condition": "new"
+      "condition": "new",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2027 BMW X1 Xdrive28iin Richmond",
@@ -3826,7 +4298,9 @@
       "year": 2027,
       "make": "BMW",
       "model": "X1",
-      "condition": "new"
+      "condition": "new",
+      "city": "Richmond",
+      "province": "BC"
     }
   ]
 }
