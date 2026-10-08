@@ -1,6 +1,6 @@
 {
   "dealership": "Auto West Bmw",
-  "generated_at": "2026-10-04T18:37:42",
+  "generated_at": "2026-10-07T19:50:38",
   "vehicle_count": 237,
   "currency": "CAD",
   "note": "Machine-readable inventory feed published by AiOptics. Each vehicle links to its full detail page.",
@@ -10,6 +10,7 @@
       "vin": "WBAUP7C52CVP22331",
       "stock": "NUMBER",
       "color": "Blue",
+      "trim": "128i Coupe",
       "url": "https://willyml1979-dotcom.github.io/auto-west-bmw-mirror/used/99633990aeea.html",
       "source_url": "https://www.autowestbmw.com/used/2012-BMW-1_Series-id14413842.html",
       "dealer_url": "https://www.autowestbmw.com/used/2012-BMW-1_Series-id14413842.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -19,7 +20,7 @@
       "odometer_km": 51213,
       "year": 2012,
       "make": "BMW",
-      "model": "1 Series 128i Coupein Richmond",
+      "model": "1 Series",
       "condition": "used"
     },
     {
@@ -43,6 +44,7 @@
       "vin": "WMWSU9C54DT379420",
       "stock": 14365503,
       "color": "Red",
+      "trim": "Hardtop",
       "url": "https://willyml1979-dotcom.github.io/auto-west-bmw-mirror/used/0d71f9cd3d83.html",
       "source_url": "https://www.autowestbmw.com/used/2013-MINI-Cooper_Hardtop.html",
       "dealer_url": "https://www.autowestbmw.com/used/2013-MINI-Cooper_Hardtop.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -51,7 +53,7 @@
       "price_currency": "CAD",
       "year": 2013,
       "make": "MINI",
-      "model": "Cooper Hardtop",
+      "model": "Cooper",
       "condition": "used"
     },
     {
@@ -59,6 +61,7 @@
       "vin": "JN1BV7AR9FM412325",
       "stock": "NUMBER",
       "color": "Grey",
+      "trim": "Base",
       "url": "https://willyml1979-dotcom.github.io/auto-west-bmw-mirror/used/b2c125ef9886.html",
       "source_url": "https://www.autowestbmw.com/used/2015-Infiniti-Q50-id14292757.html",
       "dealer_url": "https://www.autowestbmw.com/used/2015-Infiniti-Q50-id14292757.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -68,7 +71,7 @@
       "odometer_km": 156297,
       "year": 2015,
       "make": "Infiniti",
-      "model": "Q50 Basein Richmond",
+      "model": "Q50",
       "condition": "used"
     },
     {
@@ -108,6 +111,7 @@
       "vin": "WBA8F1C56HK439313",
       "stock": "NUMBER",
       "color": "Black",
+      "trim": "328d Xdrive",
       "url": "https://willyml1979-dotcom.github.io/auto-west-bmw-mirror/used/f489a0276cc7.html",
       "source_url": "https://www.autowestbmw.com/used/2017-BMW-3_Series-id14210867.html",
       "dealer_url": "https://www.autowestbmw.com/used/2017-BMW-3_Series-id14210867.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -117,7 +121,7 @@
       "odometer_km": 85519,
       "year": 2017,
       "make": "BMW",
-      "model": "3 Series 328d Xdrivein Richmond",
+      "model": "3 Series",
       "condition": "used"
     },
     {
@@ -141,6 +145,7 @@
       "vin": "WBA4P3C52HK528545",
       "stock": "NUMBER",
       "color": "White",
+      "trim": "440i Xdrive Coupe",
       "url": "https://willyml1979-dotcom.github.io/auto-west-bmw-mirror/used/89fea46d6265.html",
       "source_url": "https://www.autowestbmw.com/used/2017-BMW-4_Series-id14141480.html",
       "dealer_url": "https://www.autowestbmw.com/used/2017-BMW-4_Series-id14141480.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -150,7 +155,7 @@
       "odometer_km": 106839,
       "year": 2017,
       "make": "BMW",
-      "model": "4 Series 440i Xdrive Coupein Richmond",
+      "model": "4 Series",
       "condition": "used"
     },
     {
@@ -206,6 +211,7 @@
       "vin": "WDCTG4GB2HJ293987",
       "stock": "NUMBER",
       "color": "White",
+      "trim": "Gla250 4matic",
       "url": "https://willyml1979-dotcom.github.io/auto-west-bmw-mirror/used/c16eff88b92a.html",
       "source_url": "https://www.autowestbmw.com/used/2017-Mercedes_Benz-GLA-id14141481.html",
       "dealer_url": "https://www.autowestbmw.com/used/2017-Mercedes_Benz-GLA-id14141481.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -215,7 +221,7 @@
       "odometer_km": 120510,
       "year": 2017,
       "make": "Mercedes-Benz",
-      "model": "GLA Gla250 4maticin Richmond",
+      "model": "GLA",
       "condition": "used"
     },
     {
@@ -239,6 +245,7 @@
       "vin": "5UXTR9C58JLD69382",
       "stock": "NUMBER",
       "color": "Blue",
+      "trim": "Xdrive30i",
       "url": "https://willyml1979-dotcom.github.io/auto-west-bmw-mirror/used/bac22825284f.html",
       "source_url": "https://www.autowestbmw.com/used/2018-BMW-X3-id14161602.html",
       "dealer_url": "https://www.autowestbmw.com/used/2018-BMW-X3-id14161602.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -248,7 +255,7 @@
       "odometer_km": 99880,
       "year": 2018,
       "make": "BMW",
-      "model": "X3 Xdrive30iin Richmond",
+      "model": "X3",
       "condition": "used"
     },
     {
@@ -369,6 +376,7 @@
       "vin": "WBA73AK00M7H84234",
       "stock": "NUMBER",
       "color": "Black",
+      "trim": "228i Xdrive Gran",
       "url": "https://willyml1979-dotcom.github.io/auto-west-bmw-mirror/used/d0a44d70e638.html",
       "source_url": "https://www.autowestbmw.com/used/2021-BMW-2_Series-id14328071.html",
       "dealer_url": "https://www.autowestbmw.com/used/2021-BMW-2_Series-id14328071.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -378,7 +386,7 @@
       "odometer_km": 104703,
       "year": 2021,
       "make": "BMW",
-      "model": "2 Series 228i Xdrive Granin Richmond",
+      "model": "2 Series",
       "condition": "used"
     },
     {
@@ -418,6 +426,7 @@
       "vin": "3MW5R7J03N8C37921",
       "stock": "NUMBER",
       "color": "Grey",
+      "trim": "330i Xdrive",
       "url": "https://willyml1979-dotcom.github.io/auto-west-bmw-mirror/used/5132e2bf5f03.html",
       "source_url": "https://www.autowestbmw.com/used/2022-BMW-3_Series-id14225936.html",
       "dealer_url": "https://www.autowestbmw.com/used/2022-BMW-3_Series-id14225936.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -427,7 +436,7 @@
       "odometer_km": 30316,
       "year": 2022,
       "make": "BMW",
-      "model": "3 Series 330i Xdrivein Richmond",
+      "model": "3 Series",
       "condition": "used"
     },
     {
@@ -435,6 +444,7 @@
       "vin": "3MW5R7J02N8C29311",
       "stock": "NUMBER",
       "color": "White",
+      "trim": "330i Xdrive",
       "url": "https://willyml1979-dotcom.github.io/auto-west-bmw-mirror/used/8c0e895dbbbd.html",
       "source_url": "https://www.autowestbmw.com/used/2022-BMW-3_Series-id14243337.html",
       "dealer_url": "https://www.autowestbmw.com/used/2022-BMW-3_Series-id14243337.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -444,7 +454,7 @@
       "odometer_km": 37439,
       "year": 2022,
       "make": "BMW",
-      "model": "3 Series 330i Xdrivein Richmond",
+      "model": "3 Series",
       "condition": "used"
     },
     {
@@ -485,6 +495,7 @@
       "vin": "5UX53DP03N9N12332",
       "stock": "NUMBER",
       "color": "White",
+      "trim": "Xdrive30i",
       "url": "https://willyml1979-dotcom.github.io/auto-west-bmw-mirror/used/8c93d8b42bfe.html",
       "source_url": "https://www.autowestbmw.com/used/2022-BMW-X3-id14255923.html",
       "dealer_url": "https://www.autowestbmw.com/used/2022-BMW-X3-id14255923.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -494,7 +505,7 @@
       "odometer_km": 39970,
       "year": 2022,
       "make": "BMW",
-      "model": "X3 Xdrive30iin Richmond",
+      "model": "X3",
       "condition": "used"
     },
     {
@@ -518,6 +529,7 @@
       "vin": "5UXTA6C07N9N40939",
       "stock": "NUMBER",
       "color": "White",
+      "trim": "Xdrive45e",
       "url": "https://willyml1979-dotcom.github.io/auto-west-bmw-mirror/used/2e6af7e068c7.html",
       "source_url": "https://www.autowestbmw.com/used/2022-BMW-X5-id14407625.html",
       "dealer_url": "https://www.autowestbmw.com/used/2022-BMW-X5-id14407625.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -527,7 +539,7 @@
       "odometer_km": 79564,
       "year": 2022,
       "make": "BMW",
-      "model": "X5 Xdrive45ein Richmond",
+      "model": "X5",
       "condition": "used"
     },
     {
@@ -564,14 +576,14 @@
     },
     {
       "name": "2022 BMW X3 ",
-      "vin": "5UX53DP05N9M32272",
-      "stock": 14200111,
-      "color": "Blue",
+      "vin": "5UX53DP03N9N12332",
+      "stock": 14255923,
+      "color": "White",
       "url": "https://willyml1979-dotcom.github.io/auto-west-bmw-mirror/new/1a6c74e52409.html",
       "source_url": "https://www.autowestbmw.com/used/2022-BMW-X3.html",
       "dealer_url": "https://www.autowestbmw.com/used/2022-BMW-X3.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-24T18:44:29",
-      "price": 39095.0,
+      "last_verified": "2026-10-07T19:48:14",
+      "price": 38483.0,
       "price_currency": "CAD",
       "year": 2022,
       "make": "BMW",
@@ -586,7 +598,7 @@
       "url": "https://willyml1979-dotcom.github.io/auto-west-bmw-mirror/new/8e8c908e546c.html",
       "source_url": "https://www.autowestbmw.com/used/2022-BMW-X5.html",
       "dealer_url": "https://www.autowestbmw.com/used/2022-BMW-X5.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-24T18:44:41",
+      "last_verified": "2026-10-07T19:48:25",
       "price": 55095.0,
       "price_currency": "CAD",
       "year": 2022,
@@ -599,6 +611,7 @@
       "vin": "WBA73AP07PCL10797",
       "stock": "NUMBER",
       "color": "White",
+      "trim": "430i Xdrive",
       "url": "https://willyml1979-dotcom.github.io/auto-west-bmw-mirror/used/47b887733761.html",
       "source_url": "https://www.autowestbmw.com/used/2023-BMW-4_Series-id14399037.html",
       "dealer_url": "https://www.autowestbmw.com/used/2023-BMW-4_Series-id14399037.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -608,7 +621,7 @@
       "odometer_km": 67828,
       "year": 2023,
       "make": "BMW",
-      "model": "4 Series 430i Xdrivein Richmond",
+      "model": "4 Series",
       "condition": "used"
     },
     {
@@ -632,6 +645,7 @@
       "vin": "WBX73EF03P5W85573",
       "stock": "NUMBER",
       "color": "White",
+      "trim": "Xdrive28i",
       "url": "https://willyml1979-dotcom.github.io/auto-west-bmw-mirror/used/c21a4a2b3a32.html",
       "source_url": "https://www.autowestbmw.com/used/2023-BMW-X1-id14141475.html",
       "dealer_url": "https://www.autowestbmw.com/used/2023-BMW-X1-id14141475.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -641,7 +655,7 @@
       "odometer_km": 38615,
       "year": 2023,
       "make": "BMW",
-      "model": "X1 Xdrive28iin Richmond",
+      "model": "X1",
       "condition": "used"
     },
     {
@@ -682,6 +696,7 @@
       "vin": "5UX53DP05P9P97523",
       "stock": "NUMBER",
       "color": "White",
+      "trim": "Xdrive30i",
       "url": "https://willyml1979-dotcom.github.io/auto-west-bmw-mirror/used/3d42c3cfa953.html",
       "source_url": "https://www.autowestbmw.com/used/2023-BMW-X3-id14407626.html",
       "dealer_url": "https://www.autowestbmw.com/used/2023-BMW-X3-id14407626.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -691,7 +706,7 @@
       "odometer_km": 35083,
       "year": 2023,
       "make": "BMW",
-      "model": "X3 Xdrive30iin Richmond",
+      "model": "X3",
       "condition": "used"
     },
     {
@@ -715,6 +730,7 @@
       "vin": "WB513CF09PCK55416",
       "stock": "NUMBER",
       "color": "Blue",
+      "trim": "Xdrive40",
       "url": "https://willyml1979-dotcom.github.io/auto-west-bmw-mirror/used/1bcc652e2df2.html",
       "source_url": "https://www.autowestbmw.com/used/2023-BMW-iX-id14191976.html",
       "dealer_url": "https://www.autowestbmw.com/used/2023-BMW-iX-id14191976.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -724,7 +740,7 @@
       "odometer_km": 57550,
       "year": 2023,
       "make": "BMW",
-      "model": "iX Xdrive40in Richmond",
+      "model": "iX",
       "condition": "used"
     },
     {
@@ -751,7 +767,7 @@
       "url": "https://willyml1979-dotcom.github.io/auto-west-bmw-mirror/new/ce6900e8285a.html",
       "source_url": "https://www.autowestbmw.com/used/2023-BMW-4_Series.html",
       "dealer_url": "https://www.autowestbmw.com/used/2023-BMW-4_Series.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-24T18:44:58",
+      "last_verified": "2026-10-07T19:48:35",
       "price": 43095.0,
       "price_currency": "CAD",
       "year": 2023,
@@ -767,8 +783,8 @@
       "url": "https://willyml1979-dotcom.github.io/auto-west-bmw-mirror/new/315b4bf6654a.html",
       "source_url": "https://www.autowestbmw.com/used/2023-BMW-X1.html",
       "dealer_url": "https://www.autowestbmw.com/used/2023-BMW-X1.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-24T18:45:09",
-      "price": 32483.0,
+      "last_verified": "2026-10-07T19:48:46",
+      "price": 30983.0,
       "price_currency": "CAD",
       "year": 2023,
       "make": "BMW",
@@ -783,7 +799,7 @@
       "url": "https://willyml1979-dotcom.github.io/auto-west-bmw-mirror/new/1174ff377212.html",
       "source_url": "https://www.autowestbmw.com/used/2023-BMW-X3.html",
       "dealer_url": "https://www.autowestbmw.com/used/2023-BMW-X3.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-24T18:45:19",
+      "last_verified": "2026-10-07T19:48:56",
       "price": 39095.0,
       "price_currency": "CAD",
       "year": 2023,
@@ -799,7 +815,7 @@
       "url": "https://willyml1979-dotcom.github.io/auto-west-bmw-mirror/new/96dfe1de275d.html",
       "source_url": "https://www.autowestbmw.com/used/2023-BMW-iX.html",
       "dealer_url": "https://www.autowestbmw.com/used/2023-BMW-iX.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-24T18:45:28",
+      "last_verified": "2026-10-07T19:49:07",
       "price": 57095.0,
       "price_currency": "CAD",
       "year": 2023,
@@ -831,8 +847,8 @@
       "url": "https://willyml1979-dotcom.github.io/auto-west-bmw-mirror/new/bc1cebe8a383.html",
       "source_url": "https://www.autowestbmw.com/used/2023-Kia-Sportage.html",
       "dealer_url": "https://www.autowestbmw.com/used/2023-Kia-Sportage.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-24T18:45:38",
-      "price": 28483.0,
+      "last_verified": "2026-10-07T19:49:17",
+      "price": 26983.0,
       "price_currency": "CAD",
       "year": 2023,
       "make": "Kia",
@@ -844,6 +860,7 @@
       "vin": "WBA73AK00R7R74135",
       "stock": "NUMBER",
       "color": "Black",
+      "trim": "228i Xdrive",
       "url": "https://willyml1979-dotcom.github.io/auto-west-bmw-mirror/used/1b7b6a2be6b0.html",
       "source_url": "https://www.autowestbmw.com/used/2024-BMW-2_Series-id14243336.html",
       "dealer_url": "https://www.autowestbmw.com/used/2024-BMW-2_Series-id14243336.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -853,7 +870,7 @@
       "odometer_km": 16180,
       "year": 2024,
       "make": "BMW",
-      "model": "2 Series 228i Xdrivein Richmond",
+      "model": "2 Series",
       "condition": "used"
     },
     {
@@ -943,6 +960,7 @@
       "vin": "WBX73EF06R5Y40507",
       "stock": "NUMBER",
       "color": "Black",
+      "trim": "Xdrive28i",
       "url": "https://willyml1979-dotcom.github.io/auto-west-bmw-mirror/used/cc509bb38d7c.html",
       "source_url": "https://www.autowestbmw.com/used/2024-BMW-X1-id14348665.html",
       "dealer_url": "https://www.autowestbmw.com/used/2024-BMW-X1-id14348665.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -952,7 +970,7 @@
       "odometer_km": 9659,
       "year": 2024,
       "make": "BMW",
-      "model": "X1 Xdrive28iin Richmond",
+      "model": "X1",
       "condition": "used"
     },
     {
@@ -960,6 +978,7 @@
       "vin": "WBX13EF06R5X93775",
       "stock": "NUMBER",
       "color": "Grey",
+      "trim": "M35i Xdrive",
       "url": "https://willyml1979-dotcom.github.io/auto-west-bmw-mirror/used/77f41ad50768.html",
       "source_url": "https://www.autowestbmw.com/used/2024-BMW-X1-id14399036.html",
       "dealer_url": "https://www.autowestbmw.com/used/2024-BMW-X1-id14399036.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -969,7 +988,7 @@
       "odometer_km": 16100,
       "year": 2024,
       "make": "BMW",
-      "model": "X1 M35i Xdrivein Richmond",
+      "model": "X1",
       "condition": "used"
     },
     {
@@ -993,6 +1012,7 @@
       "vin": "WBX83GM00R5006400",
       "stock": "NUMBER",
       "color": "Black",
+      "trim": "M35i",
       "url": "https://willyml1979-dotcom.github.io/auto-west-bmw-mirror/used/752a842c8824.html",
       "source_url": "https://www.autowestbmw.com/used/2024-BMW-X2-id14320672.html",
       "dealer_url": "https://www.autowestbmw.com/used/2024-BMW-X2-id14320672.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1002,7 +1022,7 @@
       "odometer_km": 21076,
       "year": 2024,
       "make": "BMW",
-      "model": "X2 M35iin Richmond",
+      "model": "X2",
       "condition": "used"
     },
     {
@@ -1043,6 +1063,7 @@
       "vin": "5UX53DP0XR9W15124",
       "stock": "NUMBER",
       "color": "White",
+      "trim": "30xi",
       "url": "https://willyml1979-dotcom.github.io/auto-west-bmw-mirror/used/1943e3aa931f.html",
       "source_url": "https://www.autowestbmw.com/used/2024-BMW-X3-id14092108.html",
       "dealer_url": "https://www.autowestbmw.com/used/2024-BMW-X3-id14092108.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1052,7 +1073,7 @@
       "odometer_km": 28690,
       "year": 2024,
       "make": "BMW",
-      "model": "X3 30xi (xdrivein Richmond",
+      "model": "X3",
       "condition": "used"
     },
     {
@@ -1060,6 +1081,7 @@
       "vin": "5UX63DP09R9U80920",
       "stock": "NUMBER",
       "color": "Black",
+      "trim": "Xdrive30e",
       "url": "https://willyml1979-dotcom.github.io/auto-west-bmw-mirror/used/a912c9c53abc.html",
       "source_url": "https://www.autowestbmw.com/used/2024-BMW-X3-id14184169.html",
       "dealer_url": "https://www.autowestbmw.com/used/2024-BMW-X3-id14184169.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1069,13 +1091,14 @@
       "odometer_km": 35938,
       "year": 2024,
       "make": "BMW",
-      "model": "X3 Xdrive30ein Richmond",
+      "model": "X3",
       "condition": "used"
     },
     {
       "name": "2024 BMW X3 Xdrive30iin Richmond",
       "vin": "5UX53DP01R9X21168",
       "stock": "NUMBER",
+      "trim": "Xdrive30i",
       "url": "https://willyml1979-dotcom.github.io/auto-west-bmw-mirror/used/86d2af3504c7.html",
       "source_url": "https://www.autowestbmw.com/used/2024-BMW-X3-id14386412.html",
       "dealer_url": "https://www.autowestbmw.com/used/2024-BMW-X3-id14386412.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1085,7 +1108,7 @@
       "odometer_km": 14466,
       "year": 2024,
       "make": "BMW",
-      "model": "X3 Xdrive30iin Richmond",
+      "model": "X3",
       "condition": "used"
     },
     {
@@ -1112,7 +1135,7 @@
       "url": "https://willyml1979-dotcom.github.io/auto-west-bmw-mirror/new/ad8f257d9ddd.html",
       "source_url": "https://www.autowestbmw.com/used/2024-BMW-2_Series.html",
       "dealer_url": "https://www.autowestbmw.com/used/2024-BMW-2_Series.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-24T18:45:48",
+      "last_verified": "2026-10-07T19:49:26",
       "price": 37095.0,
       "price_currency": "CAD",
       "year": 2024,
@@ -1128,7 +1151,7 @@
       "url": "https://willyml1979-dotcom.github.io/auto-west-bmw-mirror/new/77295a900b52.html",
       "source_url": "https://www.autowestbmw.com/used/2024-BMW-330i.html",
       "dealer_url": "https://www.autowestbmw.com/used/2024-BMW-330i.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-24T18:45:57",
+      "last_verified": "2026-10-07T19:49:35",
       "price": 47095.0,
       "price_currency": "CAD",
       "year": 2024,
@@ -1144,7 +1167,7 @@
       "url": "https://willyml1979-dotcom.github.io/auto-west-bmw-mirror/new/052ece60bba7.html",
       "source_url": "https://www.autowestbmw.com/used/2024-BMW-M4.html",
       "dealer_url": "https://www.autowestbmw.com/used/2024-BMW-M4.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-24T18:46:06",
+      "last_verified": "2026-10-07T19:49:45",
       "price": 96095.0,
       "price_currency": "CAD",
       "year": 2024,
@@ -1160,7 +1183,7 @@
       "url": "https://willyml1979-dotcom.github.io/auto-west-bmw-mirror/new/41e913416e90.html",
       "source_url": "https://www.autowestbmw.com/used/2024-BMW-X1.html",
       "dealer_url": "https://www.autowestbmw.com/used/2024-BMW-X1.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-24T18:46:18",
+      "last_verified": "2026-10-07T19:49:53",
       "price": 43095.0,
       "price_currency": "CAD",
       "year": 2024,
@@ -1176,7 +1199,7 @@
       "url": "https://willyml1979-dotcom.github.io/auto-west-bmw-mirror/new/9010d0d6e122.html",
       "source_url": "https://www.autowestbmw.com/used/2024-BMW-X2.html",
       "dealer_url": "https://www.autowestbmw.com/used/2024-BMW-X2.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-24T18:46:29",
+      "last_verified": "2026-10-07T19:50:03",
       "price": 52845.0,
       "price_currency": "CAD",
       "year": 2024,
@@ -1192,7 +1215,7 @@
       "url": "https://willyml1979-dotcom.github.io/auto-west-bmw-mirror/new/f24b6942d678.html",
       "source_url": "https://www.autowestbmw.com/used/2024-BMW-X3.html",
       "dealer_url": "https://www.autowestbmw.com/used/2024-BMW-X3.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-24T18:46:38",
+      "last_verified": "2026-10-07T19:50:11",
       "price": 47095.0,
       "price_currency": "CAD",
       "year": 2024,
@@ -1205,6 +1228,7 @@
       "vin": "3MW69FT05S8F15659",
       "stock": "NUMBER",
       "color": "White",
+      "trim": "M340i Xdrive",
       "url": "https://willyml1979-dotcom.github.io/auto-west-bmw-mirror/used/7cc1309e7825.html",
       "source_url": "https://www.autowestbmw.com/used/2025-BMW-3_Series-id14379822.html",
       "dealer_url": "https://www.autowestbmw.com/used/2025-BMW-3_Series-id14379822.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1214,7 +1238,7 @@
       "odometer_km": 30852,
       "year": 2025,
       "make": "BMW",
-      "model": "3 Series M340i Xdrivein Richmond",
+      "model": "3 Series",
       "condition": "used"
     },
     {
@@ -1238,6 +1262,7 @@
       "vin": "WBA83DA06SCS67156",
       "stock": "NUMBER",
       "color": "Black",
+      "trim": "M440i Xdrive",
       "url": "https://willyml1979-dotcom.github.io/auto-west-bmw-mirror/used/15b5470a01c8.html",
       "source_url": "https://www.autowestbmw.com/used/2025-BMW-4_Series-id14348667.html",
       "dealer_url": "https://www.autowestbmw.com/used/2025-BMW-4_Series-id14348667.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1247,7 +1272,7 @@
       "odometer_km": 22139,
       "year": 2025,
       "make": "BMW",
-      "model": "4 Series M440i Xdrivein Richmond",
+      "model": "4 Series",
       "condition": "used"
     },
     {
@@ -1304,6 +1329,7 @@
       "vin": "WBY33HD09SFV08110",
       "stock": "NUMBER",
       "color": "Grey",
+      "trim": "M50",
       "url": "https://willyml1979-dotcom.github.io/auto-west-bmw-mirror/used/208a2de4ba0f.html",
       "source_url": "https://www.autowestbmw.com/used/2025-BMW-i4-id14448293.html",
       "dealer_url": "https://www.autowestbmw.com/used/2025-BMW-i4-id14448293.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1313,7 +1339,7 @@
       "odometer_km": 18031,
       "year": 2025,
       "make": "BMW",
-      "model": "i4 M50in Richmond",
+      "model": "i4",
       "condition": "used"
     },
     {
@@ -1340,7 +1366,7 @@
       "url": "https://willyml1979-dotcom.github.io/auto-west-bmw-mirror/new/c1d68a7ab740.html",
       "source_url": "https://www.autowestbmw.com/used/2025-BMW-3_Series.html",
       "dealer_url": "https://www.autowestbmw.com/used/2025-BMW-3_Series.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-24T18:46:49",
+      "last_verified": "2026-10-07T19:50:20",
       "price": 69095.0,
       "price_currency": "CAD",
       "year": 2025,
@@ -1356,7 +1382,7 @@
       "url": "https://willyml1979-dotcom.github.io/auto-west-bmw-mirror/new/3214fb5fe6aa.html",
       "source_url": "https://www.autowestbmw.com/used/2025-BMW-4_Series.html",
       "dealer_url": "https://www.autowestbmw.com/used/2025-BMW-4_Series.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-24T18:46:59",
+      "last_verified": "2026-10-07T19:50:30",
       "price": 66594.0,
       "price_currency": "CAD",
       "year": 2025,
@@ -1591,6 +1617,7 @@
     {
       "name": "2026 BMW 4 Series Convertible - Cabrioletin Richmond",
       "stock": "NUMBER",
+      "trim": "Convertible",
       "url": "https://willyml1979-dotcom.github.io/auto-west-bmw-mirror/used/74c3a175abd3.html",
       "source_url": "https://www.autowestbmw.com/new/2026-BMW-4_Series_Convertible___Cabriolet-id471071.html",
       "dealer_url": "https://www.autowestbmw.com/new/2026-BMW-4_Series_Convertible___Cabriolet-id471071.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1599,12 +1626,13 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "BMW",
-      "model": "4 Series Convertible - Cabrioletin Richmond",
+      "model": "4 Series",
       "condition": "used"
     },
     {
       "name": "2026 BMW 4 Series Convertible - Cabrioletin Richmond",
       "stock": "NUMBER",
+      "trim": "Convertible",
       "url": "https://willyml1979-dotcom.github.io/auto-west-bmw-mirror/used/c3bd07f16a83.html",
       "source_url": "https://www.autowestbmw.com/new/2026-BMW-4_Series_Convertible___Cabriolet-id471089.html",
       "dealer_url": "https://www.autowestbmw.com/new/2026-BMW-4_Series_Convertible___Cabriolet-id471089.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1613,7 +1641,7 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "BMW",
-      "model": "4 Series Convertible - Cabrioletin Richmond",
+      "model": "4 Series",
       "condition": "used"
     },
     {
@@ -1729,6 +1757,7 @@
     {
       "name": "2026 BMW 8 Series Convertible - Cabrioletin Richmond",
       "stock": "NUMBER",
+      "trim": "Convertible",
       "url": "https://willyml1979-dotcom.github.io/auto-west-bmw-mirror/used/e752084525ad.html",
       "source_url": "https://www.autowestbmw.com/new/2026-BMW-8_Series_Convertible___Cabriolet-id471038.html",
       "dealer_url": "https://www.autowestbmw.com/new/2026-BMW-8_Series_Convertible___Cabriolet-id471038.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1737,12 +1766,13 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "BMW",
-      "model": "8 Series Convertible - Cabrioletin Richmond",
+      "model": "8 Series",
       "condition": "used"
     },
     {
       "name": "2026 BMW 8 Series Convertible - Cabrioletin Richmond",
       "stock": "NUMBER",
+      "trim": "Convertible",
       "url": "https://willyml1979-dotcom.github.io/auto-west-bmw-mirror/used/268db50fa855.html",
       "source_url": "https://www.autowestbmw.com/new/2026-BMW-8_Series_Convertible___Cabriolet.html",
       "dealer_url": "https://www.autowestbmw.com/new/2026-BMW-8_Series_Convertible___Cabriolet.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1751,7 +1781,7 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "BMW",
-      "model": "8 Series Convertible - Cabrioletin Richmond",
+      "model": "8 Series",
       "condition": "used"
     },
     {
@@ -1887,6 +1917,7 @@
       "vin": "5YM13ET05T9283748",
       "stock": 13829130,
       "color": "White",
+      "trim": "M",
       "url": "https://willyml1979-dotcom.github.io/auto-west-bmw-mirror/used/520240f96299.html",
       "source_url": "https://www.autowestbmw.com/new/2026-BMW-X5_M.html",
       "dealer_url": "https://www.autowestbmw.com/new/2026-BMW-X5_M.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1895,7 +1926,7 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "BMW",
-      "model": "X5 M",
+      "model": "X5",
       "condition": "used"
     },
     {
@@ -1935,6 +1966,7 @@
       "vin": "5YM23ET07T9348149",
       "stock": 13449729,
       "color": "Black",
+      "trim": "M",
       "url": "https://willyml1979-dotcom.github.io/auto-west-bmw-mirror/used/252f3f545b3a.html",
       "source_url": "https://www.autowestbmw.com/new/2026-BMW-X6_M.html",
       "dealer_url": "https://www.autowestbmw.com/new/2026-BMW-X6_M.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1943,7 +1975,7 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "BMW",
-      "model": "X6 M",
+      "model": "X6",
       "condition": "used"
     },
     {
@@ -2112,6 +2144,7 @@
       "vin": "5UX23EU01T9292263",
       "stock": "NUMBER",
       "color": "Manhattan Metallic",
+      "trim": "Xdrive40i",
       "url": "https://willyml1979-dotcom.github.io/auto-west-bmw-mirror/used/ceea4be2fd51.html",
       "source_url": "https://www.autowestbmw.com/used/2026-BMW-X5-id14432869.html",
       "dealer_url": "https://www.autowestbmw.com/used/2026-BMW-X5-id14432869.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2121,7 +2154,7 @@
       "odometer_km": 4146,
       "year": 2026,
       "make": "BMW",
-      "model": "X5 Xdrive40iin Richmond",
+      "model": "X5",
       "condition": "used"
     },
     {
@@ -2271,6 +2304,7 @@
     {
       "name": "2026 BMW 4 Series Convertible - Cabrioletin Richmond",
       "stock": "NUMBER",
+      "trim": "Convertible",
       "url": "https://willyml1979-dotcom.github.io/auto-west-bmw-mirror/new/74c3a175abd3.html",
       "source_url": "https://www.autowestbmw.com/new/2026-BMW-4_Series_Convertible___Cabriolet-id471071.html",
       "dealer_url": "https://www.autowestbmw.com/new/2026-BMW-4_Series_Convertible___Cabriolet-id471071.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2279,12 +2313,13 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "BMW",
-      "model": "4 Series Convertible - Cabrioletin Richmond",
+      "model": "4 Series",
       "condition": "new"
     },
     {
       "name": "2026 BMW 4 Series Convertible - Cabrioletin Richmond",
       "stock": "NUMBER",
+      "trim": "Convertible",
       "url": "https://willyml1979-dotcom.github.io/auto-west-bmw-mirror/new/c3bd07f16a83.html",
       "source_url": "https://www.autowestbmw.com/new/2026-BMW-4_Series_Convertible___Cabriolet-id471089.html",
       "dealer_url": "https://www.autowestbmw.com/new/2026-BMW-4_Series_Convertible___Cabriolet-id471089.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2293,7 +2328,7 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "BMW",
-      "model": "4 Series Convertible - Cabrioletin Richmond",
+      "model": "4 Series",
       "condition": "new"
     },
     {
@@ -2409,6 +2444,7 @@
     {
       "name": "2026 BMW 8 Series Convertible - Cabrioletin Richmond",
       "stock": "NUMBER",
+      "trim": "Convertible",
       "url": "https://willyml1979-dotcom.github.io/auto-west-bmw-mirror/new/e752084525ad.html",
       "source_url": "https://www.autowestbmw.com/new/2026-BMW-8_Series_Convertible___Cabriolet-id471038.html",
       "dealer_url": "https://www.autowestbmw.com/new/2026-BMW-8_Series_Convertible___Cabriolet-id471038.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2417,12 +2453,13 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "BMW",
-      "model": "8 Series Convertible - Cabrioletin Richmond",
+      "model": "8 Series",
       "condition": "new"
     },
     {
       "name": "2026 BMW 8 Series Convertible - Cabrioletin Richmond",
       "stock": "NUMBER",
+      "trim": "Convertible",
       "url": "https://willyml1979-dotcom.github.io/auto-west-bmw-mirror/new/268db50fa855.html",
       "source_url": "https://www.autowestbmw.com/new/2026-BMW-8_Series_Convertible___Cabriolet.html",
       "dealer_url": "https://www.autowestbmw.com/new/2026-BMW-8_Series_Convertible___Cabriolet.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2431,7 +2468,7 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "BMW",
-      "model": "8 Series Convertible - Cabrioletin Richmond",
+      "model": "8 Series",
       "condition": "new"
     },
     {
@@ -2567,6 +2604,7 @@
       "vin": "5YM13ET05T9283748",
       "stock": 13829130,
       "color": "White",
+      "trim": "M",
       "url": "https://willyml1979-dotcom.github.io/auto-west-bmw-mirror/new/520240f96299.html",
       "source_url": "https://www.autowestbmw.com/new/2026-BMW-X5_M.html",
       "dealer_url": "https://www.autowestbmw.com/new/2026-BMW-X5_M.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2575,7 +2613,7 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "BMW",
-      "model": "X5 M",
+      "model": "X5",
       "condition": "new"
     },
     {
@@ -2615,6 +2653,7 @@
       "vin": "5YM23ET07T9348149",
       "stock": 13449729,
       "color": "Black",
+      "trim": "M",
       "url": "https://willyml1979-dotcom.github.io/auto-west-bmw-mirror/new/252f3f545b3a.html",
       "source_url": "https://www.autowestbmw.com/new/2026-BMW-X6_M.html",
       "dealer_url": "https://www.autowestbmw.com/new/2026-BMW-X6_M.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2623,7 +2662,7 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "BMW",
-      "model": "X6 M",
+      "model": "X6",
       "condition": "new"
     },
     {
@@ -2709,6 +2748,7 @@
       "vin": "WBA23GG08T7V69007",
       "stock": "NUMBER",
       "color": "Grey",
+      "trim": "228i Xdrive",
       "url": "https://willyml1979-dotcom.github.io/auto-west-bmw-mirror/new/38634c0d2834.html",
       "source_url": "https://www.autowestbmw.com/new/inventory/2026-BMW-2_Series-id13774203.html",
       "dealer_url": "https://www.autowestbmw.com/new/inventory/2026-BMW-2_Series-id13774203.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2717,7 +2757,7 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "BMW",
-      "model": "2 Series 228i Xdrivein Richmond",
+      "model": "2 Series",
       "condition": "new"
     },
     {
@@ -2725,6 +2765,7 @@
       "vin": "WBA23GG04T7W33897",
       "stock": "NUMBER",
       "color": "Grey",
+      "trim": "228i Xdrive",
       "url": "https://willyml1979-dotcom.github.io/auto-west-bmw-mirror/new/a19471534d37.html",
       "source_url": "https://www.autowestbmw.com/new/inventory/2026-BMW-2_Series-id14129378.html",
       "dealer_url": "https://www.autowestbmw.com/new/inventory/2026-BMW-2_Series-id14129378.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2733,7 +2774,7 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "BMW",
-      "model": "2 Series 228i Xdrivein Richmond",
+      "model": "2 Series",
       "condition": "new"
     },
     {
@@ -2741,6 +2782,7 @@
       "vin": "WBA23GG03T7W22762",
       "stock": "NUMBER",
       "color": "White",
+      "trim": "228i Xdrive",
       "url": "https://willyml1979-dotcom.github.io/auto-west-bmw-mirror/new/d4540809e2f9.html",
       "source_url": "https://www.autowestbmw.com/new/inventory/2026-BMW-2_Series-id14129382.html",
       "dealer_url": "https://www.autowestbmw.com/new/inventory/2026-BMW-2_Series-id14129382.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2749,7 +2791,7 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "BMW",
-      "model": "2 Series 228i Xdrivein Richmond",
+      "model": "2 Series",
       "condition": "new"
     },
     {
@@ -2757,6 +2799,7 @@
       "vin": "WBA23GG03T7W21420",
       "stock": "NUMBER",
       "color": "Grey",
+      "trim": "228i Xdrive",
       "url": "https://willyml1979-dotcom.github.io/auto-west-bmw-mirror/new/107794a0431a.html",
       "source_url": "https://www.autowestbmw.com/new/inventory/2026-BMW-2_Series-id14158532.html",
       "dealer_url": "https://www.autowestbmw.com/new/inventory/2026-BMW-2_Series-id14158532.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2765,7 +2808,7 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "BMW",
-      "model": "2 Series 228i Xdrivein Richmond",
+      "model": "2 Series",
       "condition": "new"
     },
     {
@@ -2773,6 +2816,7 @@
       "vin": "WBA23GG04T7W48609",
       "stock": "NUMBER",
       "color": "Black",
+      "trim": "228 Xdrive",
       "url": "https://willyml1979-dotcom.github.io/auto-west-bmw-mirror/new/f557313cffc2.html",
       "source_url": "https://www.autowestbmw.com/new/inventory/2026-BMW-2_Series-id14346467.html",
       "dealer_url": "https://www.autowestbmw.com/new/inventory/2026-BMW-2_Series-id14346467.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2781,7 +2825,7 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "BMW",
-      "model": "2 Series 228 Xdrivein Richmond",
+      "model": "2 Series",
       "condition": "new"
     },
     {
@@ -2789,6 +2833,7 @@
       "vin": "WBX73EF0XT5752017",
       "stock": "NUMBER",
       "color": "Silver",
+      "trim": "Xdrive28i",
       "url": "https://willyml1979-dotcom.github.io/auto-west-bmw-mirror/new/26469ae937b6.html",
       "source_url": "https://www.autowestbmw.com/new/inventory/2026-BMW-X1-id14158531.html",
       "dealer_url": "https://www.autowestbmw.com/new/inventory/2026-BMW-X1-id14158531.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2797,7 +2842,7 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "BMW",
-      "model": "X1 Xdrive28iin Richmond",
+      "model": "X1",
       "condition": "new"
     },
     {
@@ -2805,6 +2850,7 @@
       "vin": "WBX73EF01T5750317",
       "stock": "NUMBER",
       "color": "White",
+      "trim": "Xdrive28i",
       "url": "https://willyml1979-dotcom.github.io/auto-west-bmw-mirror/new/e76fbca8f9c6.html",
       "source_url": "https://www.autowestbmw.com/new/inventory/2026-BMW-X1-id14243328.html",
       "dealer_url": "https://www.autowestbmw.com/new/inventory/2026-BMW-X1-id14243328.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2813,7 +2859,7 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "BMW",
-      "model": "X1 Xdrive28iin Richmond",
+      "model": "X1",
       "condition": "new"
     },
     {
@@ -2821,6 +2867,7 @@
       "vin": "WBX73EF08T5752517",
       "stock": "NUMBER",
       "color": "White",
+      "trim": "Xdrive28i",
       "url": "https://willyml1979-dotcom.github.io/auto-west-bmw-mirror/new/4bfef65423f1.html",
       "source_url": "https://www.autowestbmw.com/new/inventory/2026-BMW-X1-id14346468.html",
       "dealer_url": "https://www.autowestbmw.com/new/inventory/2026-BMW-X1-id14346468.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2829,7 +2876,7 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "BMW",
-      "model": "X1 Xdrive28iin Richmond",
+      "model": "X1",
       "condition": "new"
     },
     {
@@ -2837,6 +2884,7 @@
       "vin": "WBX63GM00T5719831",
       "stock": "NUMBER",
       "color": "White",
+      "trim": "Xdrive28i",
       "url": "https://willyml1979-dotcom.github.io/auto-west-bmw-mirror/new/1e8f3f3f8660.html",
       "source_url": "https://www.autowestbmw.com/new/inventory/2026-BMW-X2-id14123970.html",
       "dealer_url": "https://www.autowestbmw.com/new/inventory/2026-BMW-X2-id14123970.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2845,7 +2893,7 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "BMW",
-      "model": "X2 Xdrive28iin Richmond",
+      "model": "X2",
       "condition": "new"
     },
     {
@@ -3055,6 +3103,7 @@
     {
       "name": "2027 BMW 5 Series PHEVin Richmond",
       "stock": "NUMBER",
+      "trim": "PHEV",
       "url": "https://willyml1979-dotcom.github.io/auto-west-bmw-mirror/used/20c668ba8800.html",
       "source_url": "https://www.autowestbmw.com/new/2027-BMW-5_Series_PHEV-id483786.html",
       "dealer_url": "https://www.autowestbmw.com/new/2027-BMW-5_Series_PHEV-id483786.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -3063,7 +3112,7 @@
       "price_currency": "CAD",
       "year": 2027,
       "make": "BMW",
-      "model": "5 Series PHEVin Richmond",
+      "model": "5 Series",
       "condition": "used"
     },
     {
@@ -3097,6 +3146,7 @@
     {
       "name": "2027 BMW 7 Series PHEVin Richmond",
       "stock": "NUMBER",
+      "trim": "PHEV",
       "url": "https://willyml1979-dotcom.github.io/auto-west-bmw-mirror/used/831e4b10f50a.html",
       "source_url": "https://www.autowestbmw.com/new/2027-BMW-7_Series_PHEV-id487559.html",
       "dealer_url": "https://www.autowestbmw.com/new/2027-BMW-7_Series_PHEV-id487559.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -3105,7 +3155,7 @@
       "price_currency": "CAD",
       "year": 2027,
       "make": "BMW",
-      "model": "7 Series PHEVin Richmond",
+      "model": "7 Series",
       "condition": "used"
     },
     {
@@ -3239,6 +3289,7 @@
       "vin": "5YM23ET06V9469953",
       "stock": 13972381,
       "color": "White",
+      "trim": "M",
       "url": "https://willyml1979-dotcom.github.io/auto-west-bmw-mirror/used/0252a662b4df.html",
       "source_url": "https://www.autowestbmw.com/new/2027-BMW-X6_M.html",
       "dealer_url": "https://www.autowestbmw.com/new/2027-BMW-X6_M.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -3247,7 +3298,7 @@
       "price_currency": "CAD",
       "year": 2027,
       "make": "BMW",
-      "model": "X6 M",
+      "model": "X6",
       "condition": "used"
     },
     {
@@ -3437,6 +3488,7 @@
     {
       "name": "2027 BMW 5 Series PHEVin Richmond",
       "stock": "NUMBER",
+      "trim": "PHEV",
       "url": "https://willyml1979-dotcom.github.io/auto-west-bmw-mirror/new/20c668ba8800.html",
       "source_url": "https://www.autowestbmw.com/new/2027-BMW-5_Series_PHEV-id483786.html",
       "dealer_url": "https://www.autowestbmw.com/new/2027-BMW-5_Series_PHEV-id483786.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -3445,7 +3497,7 @@
       "price_currency": "CAD",
       "year": 2027,
       "make": "BMW",
-      "model": "5 Series PHEVin Richmond",
+      "model": "5 Series",
       "condition": "new"
     },
     {
@@ -3479,6 +3531,7 @@
     {
       "name": "2027 BMW 7 Series PHEVin Richmond",
       "stock": "NUMBER",
+      "trim": "PHEV",
       "url": "https://willyml1979-dotcom.github.io/auto-west-bmw-mirror/new/831e4b10f50a.html",
       "source_url": "https://www.autowestbmw.com/new/2027-BMW-7_Series_PHEV-id487559.html",
       "dealer_url": "https://www.autowestbmw.com/new/2027-BMW-7_Series_PHEV-id487559.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -3487,7 +3540,7 @@
       "price_currency": "CAD",
       "year": 2027,
       "make": "BMW",
-      "model": "7 Series PHEVin Richmond",
+      "model": "7 Series",
       "condition": "new"
     },
     {
@@ -3621,6 +3674,7 @@
       "vin": "5YM23ET06V9469953",
       "stock": 13972381,
       "color": "White",
+      "trim": "M",
       "url": "https://willyml1979-dotcom.github.io/auto-west-bmw-mirror/new/0252a662b4df.html",
       "source_url": "https://www.autowestbmw.com/new/2027-BMW-X6_M.html",
       "dealer_url": "https://www.autowestbmw.com/new/2027-BMW-X6_M.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -3629,7 +3683,7 @@
       "price_currency": "CAD",
       "year": 2027,
       "make": "BMW",
-      "model": "X6 M",
+      "model": "X6",
       "condition": "new"
     },
     {
@@ -3713,6 +3767,7 @@
       "vin": "WBX73EF06V5806688",
       "stock": "NUMBER",
       "color": "Black",
+      "trim": "Xdrive28i",
       "url": "https://willyml1979-dotcom.github.io/auto-west-bmw-mirror/new/c364d984d494.html",
       "source_url": "https://www.autowestbmw.com/new/inventory/2027-BMW-X1-id14419992.html",
       "dealer_url": "https://www.autowestbmw.com/new/inventory/2027-BMW-X1-id14419992.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -3721,7 +3776,7 @@
       "price_currency": "CAD",
       "year": 2027,
       "make": "BMW",
-      "model": "X1 Xdrive28iin Richmond",
+      "model": "X1",
       "condition": "new"
     },
     {
@@ -3761,6 +3816,7 @@
       "vin": "WBX73EF02V5804839",
       "stock": "NUMBER",
       "color": "Black",
+      "trim": "Xdrive28i",
       "url": "https://willyml1979-dotcom.github.io/auto-west-bmw-mirror/new/95274490ecaf.html",
       "source_url": "https://www.autowestbmw.com/new/inventory/2027-BMW-X1-id14427056.html",
       "dealer_url": "https://www.autowestbmw.com/new/inventory/2027-BMW-X1-id14427056.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -3769,7 +3825,7 @@
       "price_currency": "CAD",
       "year": 2027,
       "make": "BMW",
-      "model": "X1 Xdrive28iin Richmond",
+      "model": "X1",
       "condition": "new"
     }
   ]
