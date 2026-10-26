@@ -1,7 +1,7 @@
 {
   "dealership": "Auto West Bmw",
-  "generated_at": "2026-10-25T22:04:14",
-  "vehicle_count": 254,
+  "generated_at": "2026-10-26T06:38:15",
+  "vehicle_count": 251,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
   "vehicles": [
@@ -280,6 +280,17 @@
       "price_currency": "CAD"
     },
     {
+      "name": "2019 Land Rover Range Rover Sport HSEin Richmond",
+      "vin": "SALWR2RU4KA865528",
+      "url": "https://willyml1979-dotcom.github.io/auto-west-bmw-mirror/used/081425286046.html",
+      "year": 2019,
+      "make": "Land",
+      "model": "Rover Range Rover Sport HSEin Richmond",
+      "condition": "used",
+      "price": 31983.0,
+      "price_currency": "CAD"
+    },
+    {
       "name": "2020 BMW M2 CSin Richmond",
       "vin": "WBS1J3C07L7G49817",
       "url": "https://willyml1979-dotcom.github.io/auto-west-bmw-mirror/used/1941a00af170.html",
@@ -475,17 +486,6 @@
       "model": "X1",
       "condition": "used",
       "price": 30095.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2023 BMW X1 Xdrive28iin Richmond",
-      "vin": "WBX73EF02P5W18947",
-      "url": "https://willyml1979-dotcom.github.io/auto-west-bmw-mirror/used/130542c75a9e.html",
-      "year": 2023,
-      "make": "BMW",
-      "model": "X1",
-      "condition": "used",
-      "price": 37095.0,
       "price_currency": "CAD"
     },
     {
@@ -753,17 +753,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2024 BMW X2 M35iin Richmond",
-      "vin": "WBX83GM00R5006400",
-      "url": "https://willyml1979-dotcom.github.io/auto-west-bmw-mirror/used/752a842c8824.html",
-      "year": 2024,
-      "make": "BMW",
-      "model": "X2",
-      "condition": "used",
-      "price": 52845.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "2024 BMW X3in Richmond",
       "vin": "5UX53DP07R9V44268",
       "url": "https://willyml1979-dotcom.github.io/auto-west-bmw-mirror/used/5b0cc36b9554.html",
@@ -864,13 +853,13 @@
     },
     {
       "name": "2024 BMW X3 ",
-      "vin": "5UX53DP0XR9W15124",
+      "vin": "5UX53DP01R9W81447",
       "url": "https://willyml1979-dotcom.github.io/auto-west-bmw-mirror/used/f24b6942d678.html",
       "year": 2024,
       "make": "BMW",
       "model": "X3",
       "condition": "used",
-      "price": 47095.0,
+      "price": 46595.0,
       "price_currency": "CAD"
     },
     {
@@ -980,7 +969,7 @@
       "make": "BMW",
       "model": "M2in Richmond",
       "condition": "used",
-      "price": 83095.0,
+      "price": 81295.0,
       "price_currency": "CAD"
     },
     {
@@ -991,29 +980,7 @@
       "make": "BMW",
       "model": "M2",
       "condition": "used",
-      "price": 83095.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2025 BMW X3 30 Xdrivein Richmond",
-      "vin": "5UX53GP09S9Y14494",
-      "url": "https://willyml1979-dotcom.github.io/auto-west-bmw-mirror/used/fa97762481ac.html",
-      "year": 2025,
-      "make": "BMW",
-      "model": "X3",
-      "condition": "used",
-      "price": 57095.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2025 BMW X3 ",
-      "vin": "5UX53GP09S9Y14494",
-      "url": "https://willyml1979-dotcom.github.io/auto-west-bmw-mirror/used/9b10399b2eb6.html",
-      "year": 2025,
-      "make": "BMW",
-      "model": "X3",
-      "condition": "used",
-      "price": 57095.0,
+      "price": 81295.0,
       "price_currency": "CAD"
     },
     {
