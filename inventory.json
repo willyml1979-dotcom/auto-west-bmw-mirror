@@ -1,6 +1,6 @@
 {
   "dealership": "Auto West Bmw",
-  "generated_at": "2026-10-26T06:38:15",
+  "generated_at": "2026-10-26T06:47:54",
   "vehicle_count": 251,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
@@ -79,6 +79,22 @@
     },
     {
       "name": "New 2027 BMW 2 Series 228 Xdrivein Richmond",
+      "vin": "WBA23GG07V7W55668",
+      "url": "https://willyml1979-dotcom.github.io/auto-west-bmw-mirror/new/8137703617a7.html",
+      "condition": "new",
+      "price": 57564.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2027 BMW 2 Series 228 Xdrivein Richmond",
+      "vin": "WBA23GG07V7W58862",
+      "url": "https://willyml1979-dotcom.github.io/auto-west-bmw-mirror/new/2f67602753a9.html",
+      "condition": "new",
+      "price": 57564.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2027 BMW 2 Series 228 Xdrivein Richmond",
       "vin": "WBA23GG0XV7W62260",
       "url": "https://willyml1979-dotcom.github.io/auto-west-bmw-mirror/new/45c9c695fd10.html",
       "condition": "new",
@@ -123,6 +139,14 @@
       "url": "https://willyml1979-dotcom.github.io/auto-west-bmw-mirror/new/95274490ecaf.html",
       "condition": "new",
       "price": 61864.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2027 BMW X1in Richmond",
+      "vin": "WBX73EF06V5761624",
+      "url": "https://willyml1979-dotcom.github.io/auto-west-bmw-mirror/new/04b2ce6dfdb6.html",
+      "condition": "new",
+      "price": 61464.0,
       "price_currency": "CAD"
     },
     {
@@ -413,13 +437,13 @@
     },
     {
       "name": "2022 BMW 3 Series ",
-      "vin": "3MW5R7J02N8C29311",
+      "vin": "3MW5R7J03N8C37921",
       "url": "https://willyml1979-dotcom.github.io/auto-west-bmw-mirror/new/cf6079187fb9.html",
       "year": 2022,
       "make": "BMW",
       "model": "3 Series",
       "condition": "new",
-      "price": 28983.0,
+      "price": 31983.0,
       "price_currency": "CAD"
     },
     {
@@ -2649,28 +2673,6 @@
     },
     {
       "name": "2027 BMW 2 Series 228 Xdrivein Richmond",
-      "vin": "WBA23GG07V7W55668",
-      "url": "https://willyml1979-dotcom.github.io/auto-west-bmw-mirror/new/8137703617a7.html",
-      "year": 2027,
-      "make": "BMW",
-      "model": "2 Series",
-      "condition": "new",
-      "price": 57564.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2027 BMW 2 Series 228 Xdrivein Richmond",
-      "vin": "WBA23GG07V7W58862",
-      "url": "https://willyml1979-dotcom.github.io/auto-west-bmw-mirror/new/2f67602753a9.html",
-      "year": 2027,
-      "make": "BMW",
-      "model": "2 Series",
-      "condition": "new",
-      "price": 57564.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2027 BMW 2 Series 228 Xdrivein Richmond",
       "vin": "WBA23GG06V7W59517",
       "url": "https://willyml1979-dotcom.github.io/auto-west-bmw-mirror/new/16113d9aa2b2.html",
       "year": 2027,
@@ -2678,17 +2680,6 @@
       "model": "2 Series",
       "condition": "new",
       "price": 57564.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2027 BMW X1in Richmond",
-      "vin": "WBX73EF06V5761624",
-      "url": "https://willyml1979-dotcom.github.io/auto-west-bmw-mirror/new/04b2ce6dfdb6.html",
-      "year": 2027,
-      "make": "BMW",
-      "model": "X1in Richmond",
-      "condition": "new",
-      "price": 61464.0,
       "price_currency": "CAD"
     }
   ]
