@@ -1,7 +1,7 @@
 {
   "dealership": "Auto West Bmw",
-  "generated_at": "2026-11-17T05:15:00",
-  "vehicle_count": 273,
+  "generated_at": "2026-11-17T05:52:41",
+  "vehicle_count": 270,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
   "vehicles": [
@@ -106,6 +106,62 @@
       "vin": "WBS13HK04TCW24533",
       "url": "https://willyml1979-dotcom.github.io/auto-west-bmw-mirror/used/8fd6952f7fc4.html",
       "condition": "used",
+      "price": 105095.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "BMW M4 2024 for salein Richmond",
+      "vin": "WBS33BA09RCP65694",
+      "url": "https://willyml1979-dotcom.github.io/auto-west-bmw-mirror/new/052ece60bba7.html",
+      "condition": "new",
+      "price": 93990.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "BMW X1 2024 for salein Richmond",
+      "vin": "WBX73EF06R5Y40507",
+      "url": "https://willyml1979-dotcom.github.io/auto-west-bmw-mirror/new/41e913416e90.html",
+      "condition": "new",
+      "price": 41990.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "BMW X3 2024 for salein Richmond",
+      "vin": "5UX53DP06R9W80682",
+      "url": "https://willyml1979-dotcom.github.io/auto-west-bmw-mirror/new/f24b6942d678.html",
+      "condition": "new",
+      "price": 46095.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "BMW 4 Series 2025 for salein Richmond",
+      "vin": "WBA83DA06SCS67156",
+      "url": "https://willyml1979-dotcom.github.io/auto-west-bmw-mirror/new/3214fb5fe6aa.html",
+      "condition": "new",
+      "price": 62990.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "BMW M2 2025 for salein Richmond",
+      "vin": "3MF23DM01S8F45180",
+      "url": "https://willyml1979-dotcom.github.io/auto-west-bmw-mirror/new/b2b9cb80a5eb.html",
+      "condition": "new",
+      "price": 80000.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Chevrolet Corvette 2025 for salein Richmond",
+      "vin": "1G1YA2D4XS5113218",
+      "url": "https://willyml1979-dotcom.github.io/auto-west-bmw-mirror/new/23f161f1db18.html",
+      "condition": "new",
+      "price": 79983.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "BMW M4 2026 for salein Richmond",
+      "vin": "WBS13HK04TCW24533",
+      "url": "https://willyml1979-dotcom.github.io/auto-west-bmw-mirror/new/8fd6952f7fc4.html",
+      "condition": "new",
       "price": 105095.0,
       "price_currency": "CAD"
     },
@@ -968,39 +1024,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2024 BMW M4 ",
-      "vin": "WBS33BA09RCP65694",
-      "url": "https://willyml1979-dotcom.github.io/auto-west-bmw-mirror/new/052ece60bba7.html",
-      "year": 2024,
-      "make": "BMW",
-      "model": "M4",
-      "condition": "new",
-      "price": 96095.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2024 BMW X1 ",
-      "vin": "WBX73EF09R5Y29730",
-      "url": "https://willyml1979-dotcom.github.io/auto-west-bmw-mirror/new/41e913416e90.html",
-      "year": 2024,
-      "make": "BMW",
-      "model": "X1",
-      "condition": "new",
-      "price": 43095.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2024 BMW X3 ",
-      "vin": "5UX53DP01R9W81447",
-      "url": "https://willyml1979-dotcom.github.io/auto-west-bmw-mirror/new/f24b6942d678.html",
-      "year": 2024,
-      "make": "BMW",
-      "model": "X3",
-      "condition": "new",
-      "price": 46595.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "2025 BMW 3 Series M340i Xdrivein Richmond",
       "vin": "3MW69FT05S8F15659",
       "url": "https://willyml1979-dotcom.github.io/auto-west-bmw-mirror/used/7cc1309e7825.html",
@@ -1111,39 +1134,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2025 BMW 3 Series ",
-      "vin": "3MW69FT05S8F15659",
-      "url": "https://willyml1979-dotcom.github.io/auto-west-bmw-mirror/new/c1d68a7ab740.html",
-      "year": 2025,
-      "make": "BMW",
-      "model": "3 Series",
-      "condition": "new",
-      "price": 69095.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2025 BMW 4 Series ",
-      "vin": "WBA83DA06SCS67156",
-      "url": "https://willyml1979-dotcom.github.io/auto-west-bmw-mirror/new/3214fb5fe6aa.html",
-      "year": 2025,
-      "make": "BMW",
-      "model": "4 Series",
-      "condition": "new",
-      "price": 66594.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2025 BMW M2 ",
-      "vin": "3MF23DM01S8F45180",
-      "url": "https://willyml1979-dotcom.github.io/auto-west-bmw-mirror/new/b2b9cb80a5eb.html",
-      "year": 2025,
-      "make": "BMW",
-      "model": "M2",
-      "condition": "new",
-      "price": 83095.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "2025 BMW i4 ",
       "vin": "WBY33HD09SFV08110",
       "url": "https://willyml1979-dotcom.github.io/auto-west-bmw-mirror/new/336e0bdaa6de.html",
@@ -1166,17 +1156,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2025 Chevrolet Corvette ",
-      "vin": "1G1YA2D4XS5113218",
-      "url": "https://willyml1979-dotcom.github.io/auto-west-bmw-mirror/new/23f161f1db18.html",
-      "year": 2025,
-      "make": "Chevrolet",
-      "model": "Corvette",
-      "condition": "new",
-      "price": 82983.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "2025 Mazda CX-5 GSin Richmond",
       "vin": "JM3KFBCL3S0712635",
       "url": "https://willyml1979-dotcom.github.io/auto-west-bmw-mirror/used/24efc9e18495.html",
@@ -1184,17 +1163,6 @@
       "make": "Mazda",
       "model": "CX-5",
       "condition": "used",
-      "price": 25983.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2025 Mazda CX-5 ",
-      "vin": "JM3KFBCL3S0712635",
-      "url": "https://willyml1979-dotcom.github.io/auto-west-bmw-mirror/new/6606ef2fdd57.html",
-      "year": 2025,
-      "make": "Mazda",
-      "model": "CX-5",
-      "condition": "new",
       "price": 25983.0,
       "price_currency": "CAD"
     },
@@ -1675,34 +1643,34 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2026 BMW 2 Series ",
+      "name": "2026 BMW 2 Seriesin Richmond",
       "vin": "WBA23GG03T7V10768",
       "url": "https://willyml1979-dotcom.github.io/auto-west-bmw-mirror/new/61bfeb514f41.html",
       "year": 2026,
       "make": "BMW",
-      "model": "2 Series",
+      "model": "2 Seriesin Richmond",
       "condition": "new",
       "price": 53676.0,
       "price_currency": "CAD"
     },
     {
-      "name": "2026 BMW 2 Series ",
+      "name": "2026 BMW 2 Seriesin Richmond",
       "vin": "WBA23GG03T7V10768",
       "url": "https://willyml1979-dotcom.github.io/auto-west-bmw-mirror/new/ba18e444acc9.html",
       "year": 2026,
       "make": "BMW",
-      "model": "2 Series",
+      "model": "2 Seriesin Richmond",
       "condition": "new",
       "price": 53676.0,
       "price_currency": "CAD"
     },
     {
-      "name": "2026 BMW 2 Series ",
+      "name": "2026 BMW 2 Seriesin Richmond",
       "vin": "WBA23GG03T7V10768",
       "url": "https://willyml1979-dotcom.github.io/auto-west-bmw-mirror/new/2fd8436b0457.html",
       "year": 2026,
       "make": "BMW",
-      "model": "2 Series",
+      "model": "2 Seriesin Richmond",
       "condition": "new",
       "price": 53676.0,
       "price_currency": "CAD"
@@ -2171,28 +2139,6 @@
       "model": "X2",
       "condition": "new",
       "price": 62364.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 BMW M4 ",
-      "vin": "WBS13HK04TCW24533",
-      "url": "https://willyml1979-dotcom.github.io/auto-west-bmw-mirror/new/8fd6952f7fc4.html",
-      "year": 2026,
-      "make": "BMW",
-      "model": "M4",
-      "condition": "new",
-      "price": 105095.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 BMW M5 ",
-      "vin": "WBS83FK00TCV38753",
-      "url": "https://willyml1979-dotcom.github.io/auto-west-bmw-mirror/new/a90db2ecc71a.html",
-      "year": 2026,
-      "make": "BMW",
-      "model": "M5",
-      "condition": "new",
-      "price": 140095.0,
       "price_currency": "CAD"
     },
     {
