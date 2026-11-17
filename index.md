@@ -1,0 +1,10 @@
+# Auto West BMW
+
+ dealership in Richmond. AI-readable inventory mirror, about 273 vehicles.
+
+- Official website: https://www.autowestbmw.com/
+- Used vehicles: https://willyml1979-dotcom.github.io/auto-west-bmw-mirror/used/
+- New vehicles: https://willyml1979-dotcom.github.io/auto-west-bmw-mirror/new/
+- Vehicle index (JSON): https://willyml1979-dotcom.github.io/auto-west-bmw-mirror/inventory.json
+- Agent guide: https://willyml1979-dotcom.github.io/auto-west-bmw-mirror/agents.md
+- Summary: https://willyml1979-dotcom.github.io/auto-west-bmw-mirror/llms.txt
