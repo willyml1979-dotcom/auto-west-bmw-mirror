@@ -1,7 +1,7 @@
 {
   "dealership": "Auto West Bmw",
-  "generated_at": "2026-11-17T23:05:29",
-  "vehicle_count": 268,
+  "generated_at": "2026-11-17T23:14:40",
+  "vehicle_count": 269,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
   "vehicles": [
@@ -1651,25 +1651,25 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2026 BMW 3 Series ",
+      "name": "2026 BMW 3 Seriesin Richmond",
       "vin": "3MW89CW05T8F85778",
       "url": "https://willyml1979-dotcom.github.io/auto-west-bmw-mirror/new/0121401806ff.html",
       "year": 2026,
       "make": "BMW",
-      "model": "3 Series",
+      "model": "3 Seriesin Richmond",
       "condition": "new",
-      "price": 70514.0,
+      "price": 63264.0,
       "price_currency": "CAD"
     },
     {
-      "name": "2026 BMW 3 Series ",
+      "name": "2026 BMW 3 Seriesin Richmond",
       "vin": "3MW89CW05T8F85778",
       "url": "https://willyml1979-dotcom.github.io/auto-west-bmw-mirror/new/46aaeb25f7de.html",
       "year": 2026,
       "make": "BMW",
-      "model": "3 Series",
+      "model": "3 Seriesin Richmond",
       "condition": "new",
-      "price": 70514.0,
+      "price": 77264.0,
       "price_currency": "CAD"
     },
     {
@@ -1684,25 +1684,25 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2026 BMW 4 Series ",
+      "name": "2026 BMW 4 Seriesin Richmond",
       "vin": "WBA63DA05TCX48461",
       "url": "https://willyml1979-dotcom.github.io/auto-west-bmw-mirror/new/61e55056ebc7.html",
       "year": 2026,
       "make": "BMW",
-      "model": "4 Series",
+      "model": "4 Seriesin Richmond",
       "condition": "new",
-      "price": 72914.0,
+      "price": 74914.0,
       "price_currency": "CAD"
     },
     {
-      "name": "2026 BMW 4 Series ",
+      "name": "2026 BMW 4 Seriesin Richmond",
       "vin": "WBA63DA05TCX48461",
       "url": "https://willyml1979-dotcom.github.io/auto-west-bmw-mirror/new/68fa970ec378.html",
       "year": 2026,
       "make": "BMW",
-      "model": "4 Series",
+      "model": "4 Seriesin Richmond",
       "condition": "new",
-      "price": 72914.0,
+      "price": 74914.0,
       "price_currency": "CAD"
     },
     {
@@ -1726,29 +1726,29 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2026 BMW 5 Series ",
+      "name": "2026 BMW 5 Seriesin Richmond",
       "vin": "WBA53FJ0XTCV59537",
       "url": "https://willyml1979-dotcom.github.io/auto-west-bmw-mirror/new/69b12561a69a.html",
       "year": 2026,
       "make": "BMW",
-      "model": "5 Series",
+      "model": "5 Seriesin Richmond",
       "condition": "new",
-      "price": 77976.0,
+      "price": 72976.0,
       "price_currency": "CAD"
     },
     {
-      "name": "2026 BMW 5 Series ",
+      "name": "2026 BMW 5 Seriesin Richmond",
       "vin": "WBA53FJ0XTCV59537",
       "url": "https://willyml1979-dotcom.github.io/auto-west-bmw-mirror/new/182bf09a7770.html",
       "year": 2026,
       "make": "BMW",
-      "model": "5 Series",
+      "model": "5 Seriesin Richmond",
       "condition": "new",
-      "price": 77976.0,
+      "price": 72976.0,
       "price_currency": "CAD"
     },
     {
-      "name": "2026 BMW 5 Series ",
+      "name": "2026 BMW 5 Series PHEVin Richmond",
       "vin": "WBA13FK01TCX19611",
       "url": "https://willyml1979-dotcom.github.io/auto-west-bmw-mirror/new/a6bcd26dcfbc.html",
       "year": 2026,
@@ -2773,7 +2773,7 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2027 BMW 2 Series 228 Xdrivein Richmond",
+      "name": "New 2027 BMW 2 Series 228 Xdrivein Richmond",
       "vin": "WBA23GG06V7W59517",
       "url": "https://willyml1979-dotcom.github.io/auto-west-bmw-mirror/new/16113d9aa2b2.html",
       "year": 2027,
@@ -2858,6 +2858,17 @@
       "model": "X1in Richmond",
       "condition": "new",
       "price": 61464.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2027 BMW X1 Xdrive28iin Richmond",
+      "vin": "WBX73EF01V5836181",
+      "url": "https://willyml1979-dotcom.github.io/auto-west-bmw-mirror/new/c325c92c29d7.html",
+      "year": 2027,
+      "make": "BMW",
+      "model": "X1",
+      "condition": "new",
+      "price": 60964.0,
       "price_currency": "CAD"
     }
   ]
