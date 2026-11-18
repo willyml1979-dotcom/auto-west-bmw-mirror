@@ -1,7 +1,7 @@
 {
   "dealership": "Auto West Bmw",
-  "generated_at": "2026-11-17T05:52:41",
-  "vehicle_count": 270,
+  "generated_at": "2026-11-17T23:05:29",
+  "vehicle_count": 268,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
   "vehicles": [
@@ -107,6 +107,14 @@
       "url": "https://willyml1979-dotcom.github.io/auto-west-bmw-mirror/used/8fd6952f7fc4.html",
       "condition": "used",
       "price": 105095.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "BMW X5 2026 for salein Richmond",
+      "vin": "5UX23EU01T9292263",
+      "url": "https://willyml1979-dotcom.github.io/auto-west-bmw-mirror/used/d59300692dae.html",
+      "condition": "used",
+      "price": 98095.0,
       "price_currency": "CAD"
     },
     {
@@ -1090,17 +1098,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2025 BMW X5 Xdrive40iin Richmond",
-      "vin": "5UX23EU05S9X65578",
-      "url": "https://willyml1979-dotcom.github.io/auto-west-bmw-mirror/used/636701f096cc.html",
-      "year": 2025,
-      "make": "BMW",
-      "model": "X5",
-      "condition": "used",
-      "price": 84095.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "2025 BMW X7 Xdrive40iin Richmond",
       "vin": "5UX23EM03S9W66693",
       "url": "https://willyml1979-dotcom.github.io/auto-west-bmw-mirror/used/e56ee591c872.html",
@@ -1233,25 +1230,25 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2026 BMW 4 Series ",
+      "name": "2026 BMW 4 Seriesin Richmond",
       "vin": "WBA63DA05TCX48461",
       "url": "https://willyml1979-dotcom.github.io/auto-west-bmw-mirror/used/61e55056ebc7.html",
       "year": 2026,
       "make": "BMW",
-      "model": "4 Series",
+      "model": "4 Seriesin Richmond",
       "condition": "used",
-      "price": 72914.0,
+      "price": 74914.0,
       "price_currency": "CAD"
     },
     {
-      "name": "2026 BMW 4 Series ",
+      "name": "2026 BMW 4 Seriesin Richmond",
       "vin": "WBA63DA05TCX48461",
       "url": "https://willyml1979-dotcom.github.io/auto-west-bmw-mirror/used/68fa970ec378.html",
       "year": 2026,
       "make": "BMW",
-      "model": "4 Series",
+      "model": "4 Seriesin Richmond",
       "condition": "used",
-      "price": 72914.0,
+      "price": 74914.0,
       "price_currency": "CAD"
     },
     {
@@ -1275,25 +1272,25 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2026 BMW 5 Series ",
+      "name": "2026 BMW 5 Seriesin Richmond",
       "vin": "WBA53FJ0XTCV59537",
       "url": "https://willyml1979-dotcom.github.io/auto-west-bmw-mirror/used/69b12561a69a.html",
       "year": 2026,
       "make": "BMW",
-      "model": "5 Series",
+      "model": "5 Seriesin Richmond",
       "condition": "used",
-      "price": 77976.0,
+      "price": 72976.0,
       "price_currency": "CAD"
     },
     {
-      "name": "2026 BMW 5 Series ",
+      "name": "2026 BMW 5 Seriesin Richmond",
       "vin": "WBA53FJ0XTCV59537",
       "url": "https://willyml1979-dotcom.github.io/auto-west-bmw-mirror/used/182bf09a7770.html",
       "year": 2026,
       "make": "BMW",
-      "model": "5 Series",
+      "model": "5 Seriesin Richmond",
       "condition": "used",
-      "price": 77976.0,
+      "price": 72976.0,
       "price_currency": "CAD"
     },
     {
@@ -1610,31 +1607,9 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2026 BMW M5 Sedanin Richmond",
-      "vin": "WBS83FK00TCV38753",
-      "url": "https://willyml1979-dotcom.github.io/auto-west-bmw-mirror/used/18ac9d7c6682.html",
-      "year": 2026,
-      "make": "BMW",
-      "model": "M5 Sedanin Richmond",
-      "condition": "used",
-      "price": 140095.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "2026 BMW X5 Xdrive40iin Richmond",
       "vin": "5UX23EU01T9292263",
       "url": "https://willyml1979-dotcom.github.io/auto-west-bmw-mirror/used/ceea4be2fd51.html",
-      "year": 2026,
-      "make": "BMW",
-      "model": "X5",
-      "condition": "used",
-      "price": 98095.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 BMW X5 ",
-      "vin": "5UX23EU01T9292263",
-      "url": "https://willyml1979-dotcom.github.io/auto-west-bmw-mirror/used/d59300692dae.html",
       "year": 2026,
       "make": "BMW",
       "model": "X5",
