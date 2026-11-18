@@ -1,7 +1,7 @@
 {
   "dealership": "Auto West Bmw",
-  "generated_at": "2026-11-17T23:14:40",
-  "vehicle_count": 269,
+  "generated_at": "2026-11-18T08:27:43",
+  "vehicle_count": 272,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
   "vehicles": [
@@ -347,6 +347,17 @@
       "model": "X3",
       "condition": "new",
       "price": 16983.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2018 Nissan Murano Platinumin Richmond",
+      "vin": "5N1AZ2MH5JN135013",
+      "url": "https://willyml1979-dotcom.github.io/auto-west-bmw-mirror/used/1847050d0c79.html",
+      "year": 2018,
+      "make": "Nissan",
+      "model": "Murano",
+      "condition": "used",
+      "price": 20983.0,
       "price_currency": "CAD"
     },
     {
@@ -1219,14 +1230,14 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2026 BMW 3 Series ",
+      "name": "2026 BMW 3 Seriesin Richmond",
       "vin": "3MW89CW05T8F85778",
       "url": "https://willyml1979-dotcom.github.io/auto-west-bmw-mirror/used/c2fcdad2383c.html",
       "year": 2026,
       "make": "BMW",
-      "model": "3 Series",
+      "model": "3 Seriesin Richmond",
       "condition": "used",
-      "price": 70514.0,
+      "price": 63264.0,
       "price_currency": "CAD"
     },
     {
@@ -1295,12 +1306,13 @@
     },
     {
       "name": "2026 BMW 5 Series PHEVin Richmond",
+      "vin": "WBA13FK01TCX19611",
       "url": "https://willyml1979-dotcom.github.io/auto-west-bmw-mirror/used/a6bcd26dcfbc.html",
       "year": 2026,
       "make": "BMW",
       "model": "5 Series",
       "condition": "used",
-      "price": 92664.0,
+      "price": 107517.0,
       "price_currency": "CAD"
     },
     {
@@ -1314,25 +1326,24 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2026 BMW 7 Series ",
+      "name": "2026 BMW 7 Series PHEVin Richmond",
       "vin": "WBA43EH04TCX58918",
       "url": "https://willyml1979-dotcom.github.io/auto-west-bmw-mirror/used/670539db01c2.html",
       "year": 2026,
       "make": "BMW",
       "model": "7 Series",
       "condition": "used",
-      "price": 191577.0,
+      "price": 147664.0,
       "price_currency": "CAD"
     },
     {
-      "name": "2026 BMW 8 Series ",
-      "vin": "WBAGV8C06TCX22079",
+      "name": "2026 BMW 8 Seriesin Richmond",
       "url": "https://willyml1979-dotcom.github.io/auto-west-bmw-mirror/used/8d1f535a9ac6.html",
       "year": 2026,
       "make": "BMW",
-      "model": "8 Series",
+      "model": "8 Seriesin Richmond",
       "condition": "used",
-      "price": 147633.0,
+      "price": 123117.0,
       "price_currency": "CAD"
     },
     {
@@ -2130,17 +2141,6 @@
     {
       "name": "2026 Lexus RZ ",
       "vin": "JTJBCACB1TA003889",
-      "url": "https://willyml1979-dotcom.github.io/auto-west-bmw-mirror/used/9fdc5926fdfd.html",
-      "year": 2026,
-      "make": "Lexus",
-      "model": "RZ",
-      "condition": "used",
-      "price": 67983.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 Lexus RZ ",
-      "vin": "JTJBCACB1TA003889",
       "url": "https://willyml1979-dotcom.github.io/auto-west-bmw-mirror/new/9fdc5926fdfd.html",
       "year": 2026,
       "make": "Lexus",
@@ -2161,6 +2161,39 @@
       "price_currency": "CAD"
     },
     {
+      "name": "2027 BMW 2 Seriesin Richmond",
+      "vin": "WBA23GG07V7W55668",
+      "url": "https://willyml1979-dotcom.github.io/auto-west-bmw-mirror/used/27a5fd70a4e7.html",
+      "year": 2027,
+      "make": "BMW",
+      "model": "2 Seriesin Richmond",
+      "condition": "used",
+      "price": 57564.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2027 BMW 2 Seriesin Richmond",
+      "vin": "WBA23GG07V7W55668",
+      "url": "https://willyml1979-dotcom.github.io/auto-west-bmw-mirror/used/8025d0539277.html",
+      "year": 2027,
+      "make": "BMW",
+      "model": "2 Seriesin Richmond",
+      "condition": "used",
+      "price": 57564.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2027 BMW 2 Seriesin Richmond",
+      "vin": "WBA23GG07V7W55668",
+      "url": "https://willyml1979-dotcom.github.io/auto-west-bmw-mirror/used/9706602ecc71.html",
+      "year": 2027,
+      "make": "BMW",
+      "model": "2 Seriesin Richmond",
+      "condition": "used",
+      "price": 57564.0,
+      "price_currency": "CAD"
+    },
+    {
       "name": "2027 BMW 2 Series ",
       "vin": "WBA23GG07V7W55668",
       "url": "https://willyml1979-dotcom.github.io/auto-west-bmw-mirror/used/9d90311e6130.html",
@@ -2172,23 +2205,23 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2027 BMW 4 Series ",
+      "name": "2027 BMW 4 Seriesin Richmond",
       "vin": "WBA33FB05VFX25695",
       "url": "https://willyml1979-dotcom.github.io/auto-west-bmw-mirror/used/bb029646b756.html",
       "year": 2027,
       "make": "BMW",
-      "model": "4 Series",
+      "model": "4 Seriesin Richmond",
       "condition": "used",
       "price": 74214.0,
       "price_currency": "CAD"
     },
     {
-      "name": "2027 BMW 4 Series ",
+      "name": "2027 BMW 4 Seriesin Richmond",
       "vin": "WBA33FB05VFX25695",
       "url": "https://willyml1979-dotcom.github.io/auto-west-bmw-mirror/used/7c58927ddad1.html",
       "year": 2027,
       "make": "BMW",
-      "model": "4 Series",
+      "model": "4 Seriesin Richmond",
       "condition": "used",
       "price": 74214.0,
       "price_currency": "CAD"
