@@ -1,7 +1,7 @@
 {
   "dealership": "Auto West Bmw",
-  "generated_at": "2026-11-18T17:10:51",
-  "vehicle_count": 270,
+  "generated_at": "2026-11-18T18:12:44",
+  "vehicle_count": 269,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
   "vehicles": [
@@ -1678,14 +1678,14 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2026 BMW 3 Series ",
+      "name": "2026 BMW 3 Seriesin Richmond",
       "vin": "3MW89CW05T8F85778",
       "url": "https://willyml1979-dotcom.github.io/auto-west-bmw-mirror/new/c2fcdad2383c.html",
       "year": 2026,
       "make": "BMW",
-      "model": "3 Series",
+      "model": "3 Seriesin Richmond",
       "condition": "new",
-      "price": 70514.0,
+      "price": 63264.0,
       "price_currency": "CAD"
     },
     {
@@ -1708,26 +1708,6 @@
       "model": "4 Seriesin Richmond",
       "condition": "new",
       "price": 74914.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 BMW 4 Series Convertible - Cabrioletin Richmond",
-      "url": "https://willyml1979-dotcom.github.io/auto-west-bmw-mirror/new/74c3a175abd3.html",
-      "year": 2026,
-      "make": "BMW",
-      "model": "4 Series",
-      "condition": "new",
-      "price": 91664.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 BMW 4 Series Convertible - Cabrioletin Richmond",
-      "url": "https://willyml1979-dotcom.github.io/auto-west-bmw-mirror/new/c3bd07f16a83.html",
-      "year": 2026,
-      "make": "BMW",
-      "model": "4 Series",
-      "condition": "new",
-      "price": 76664.0,
       "price_currency": "CAD"
     },
     {
@@ -1795,14 +1775,13 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2026 BMW 8 Series ",
-      "vin": "WBAGV8C06TCX22079",
+      "name": "2026 BMW 8 Seriesin Richmond",
       "url": "https://willyml1979-dotcom.github.io/auto-west-bmw-mirror/new/ace54b0feb81.html",
       "year": 2026,
       "make": "BMW",
-      "model": "8 Series",
+      "model": "8 Seriesin Richmond",
       "condition": "new",
-      "price": 147633.0,
+      "price": 123117.0,
       "price_currency": "CAD"
     },
     {
@@ -1826,69 +1805,79 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2026 BMW M3 ",
+      "name": "2026 BMW M2in Richmond",
+      "vin": "3MF23DM03T8F87545",
+      "url": "https://willyml1979-dotcom.github.io/auto-west-bmw-mirror/new/c2073abd2a2a.html",
+      "year": 2026,
+      "make": "BMW",
+      "model": "M2in Richmond",
+      "condition": "new",
+      "price": 88095.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2026 BMW M3in Richmond",
       "vin": "WBS13HJ0XTFW18493",
       "url": "https://willyml1979-dotcom.github.io/auto-west-bmw-mirror/new/282b80d9b834.html",
       "year": 2026,
       "make": "BMW",
-      "model": "M3",
+      "model": "M3in Richmond",
       "condition": "new",
-      "price": 111957.0,
+      "price": 114357.0,
       "price_currency": "CAD"
     },
     {
-      "name": "2026 BMW M4 ",
+      "name": "2026 BMW M4in Richmond",
       "vin": "WBS13HK04TCW24533",
       "url": "https://willyml1979-dotcom.github.io/auto-west-bmw-mirror/new/d25b8cf0acf6.html",
       "year": 2026,
       "make": "BMW",
-      "model": "M4",
+      "model": "M4in Richmond",
       "condition": "new",
       "price": 105095.0,
       "price_currency": "CAD"
     },
     {
-      "name": "2026 BMW M4 ",
+      "name": "2026 BMW M4 Convertible - Cabrioletin Richmond",
       "vin": "WBS43BA03TCV50968",
       "url": "https://willyml1979-dotcom.github.io/auto-west-bmw-mirror/new/463b59c9bcc9.html",
       "year": 2026,
       "make": "BMW",
-      "model": "M4",
+      "model": "M4 Convertible - Cabrioletin Richmond",
       "condition": "new",
-      "price": 114095.0,
+      "price": 108000.0,
       "price_currency": "CAD"
     },
     {
-      "name": "2026 BMW M5 ",
-      "vin": "WBS83FK00TCV38753",
+      "name": "2026 BMW M5in Richmond",
       "url": "https://willyml1979-dotcom.github.io/auto-west-bmw-mirror/new/2ae8f061998b.html",
       "year": 2026,
       "make": "BMW",
-      "model": "M5",
+      "model": "M5in Richmond",
       "condition": "new",
-      "price": 140095.0,
+      "price": 149997.0,
       "price_currency": "CAD"
     },
     {
-      "name": "2026 BMW X1 ",
+      "name": "2026 BMW X1in Richmond",
       "vin": "WBX73EF00T5603261",
       "url": "https://willyml1979-dotcom.github.io/auto-west-bmw-mirror/new/fcf4bfc96ff5.html",
       "year": 2026,
       "make": "BMW",
-      "model": "X1",
+      "model": "X1in Richmond",
       "condition": "new",
       "price": 62576.0,
       "price_currency": "CAD"
     },
     {
-      "name": "2026 BMW X2 ",
+      "name": "2026 BMW X2in Richmond",
       "vin": "WBX63GM05T5512335",
       "url": "https://willyml1979-dotcom.github.io/auto-west-bmw-mirror/new/ea49055eefee.html",
       "year": 2026,
       "make": "BMW",
-      "model": "X2",
+      "model": "X2in Richmond",
       "condition": "new",
-      "price": 66776.0,
+      "price": 60776.0,
       "price_currency": "CAD"
     },
     {
